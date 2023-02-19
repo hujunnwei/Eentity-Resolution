@@ -1,0 +1,146 @@
+1526	0	Lishan Lan
+2002	0	Lishan Lan
+
+1841	0	Vanessa Chenel
+2003	0	Vanessa Chenel
+
+1890	0	Bert Gordijn
+2004	0	Bert Gordijn
+
+1959	0	Sandra Wachter
+2005	0	Sandra Wachter
+
+1982	0	Gary Lee Downey
+2006	0	Gary Lee Downey
+
+1800	0	Thierry C. Pauchant
+2007	0	Thierry C. Pauchant
+
+1597	0	Kate Millar
+2008	0	Kate Millar
+
+1746	0	Andreea Peca
+2009	0	Andreea Peca
+
+1848	0	Jafar Rezaei 0001
+2010	0	Jafar Rezaei 0001
+
+1587	0	Amos Darko
+2011	0	Amos Darko
+
+1762	0	Brian C. Martinson
+2012	0	Brian C. Martinsou
+
+1669	0	Maarten C. A. van der Sanden
+2013	0	Maarten C. A. van der Sanden
+
+1974	0	Jathan Sadowski
+2014	0	Jathan Sadowski
+
+1786	0	Jessica Li
+2015	0	Jessica Li
+
+1823	0	Marek Vochozka
+2016	0	Marek Vochozka
+
+1517	0	Paolo Gardoni
+2017	0	Paolo Gardoni
+
+1882	0	Bert van Wee
+2018	0	Bert v%n Wee
+
+1723	0	David L. Evers
+2019	0	David L. EvKrs
+
+1923	0	Sarah M. Rovito
+2020	0	Sarah M. Rovito
+
+1984	0	Carl Mitcham
+2021	0	Carl Mitcham
+
+1739	0	Thomas Darwin
+2022	0	Thomas Darwin
+
+1763	0	Carol R. Thrush
+2023	0	Carol R. Thrush
+
+1714	0	Zubin Master
+2024	0	Zubin Master
+
+1588	0	Mahdi Tahmasebi
+2025	0	Mahdi Tahmasebi
+
+1934	0	Susan A. Elmore
+2026	0	Susan R. Elmore
+
+1831	0	Sven Nyholm
+2027	0	Sven Nyholm
+
+1573	0	Ileana Di Pomponio
+2028	0	IEeana Di Pomponio
+
+1574	0	Stefano Guidi
+2029	0	Stefano Guidi
+
+1947	0	Kenneth H. Funk II
+2030	0	Kenneth H. Funk II
+
+1578	0	Sabrina Engel-Glatter
+2031	0	Sabrinw Engel-Glatter
+
+1678	0	Howard J. Curzer
+2032	0	Howard P. Curzer
+
+1758	1	1758	Text Recycling in Scientific Writing.	813-851
+2033	1	1758	Text Recycling in Scientif9c Writing.	\N
+
+1859	1	1859	Overview: Underserved Areas of Education in the Responsible Conduct of Research: Authorship.	335-339
+2034	1	1859	Overview: Underserved Areas of Education in the Responsible Conduct of Research: Authorahip.	335-339
+
+1911	1	1911	Scientific Integrity Principles and Best Practices: Recommendations from a Scientific Integrity Consortium.	327-355
+2035	1	1911	Scientific Integrity Principles and Best Practices: Recommendations from a Scientific Integrity Consortium.	327-355
+
+1981	1	1981	Engineering Ethics and Identity: Emerging Initiatives in Comparative Perspective.	463-487
+2036	1	1981	Engineering Ethics and Identity: Emerging Initiatives in Comparative Perspective.	463-487
+
+1874	1	1874	Biosecurity and Open-Source Biology: The Promise and Peril of Distributed Synthetic Biological Technologies.	1065-1083
+2037	1	1874	Biosecurity and Open-Source Biology: The Promise and Peril of Distributed Synthetic Biological Technologies.	1065-1083
+
+1654	1	1654	Toward a Responsibility-Catering Prioritarian Ethical Theory of Risk.	655-670
+2038	1	1654	Toward a Responsibility-Catering Prioritarian Ethical Theory of Risk.	655-670
+
+1701	1	1701	An Analysis of Medical Laboratory Technology Journals' Instructions for Authors.	1095-1106
+2039	1	1701	An Analysis of Medical Laboratory Technology Journals' Instructions for Authors.	1095-1106
+
+1582	1	1582	Distinguishing Characteristics of Corruption Risks in Iranian Construction Projects: A Weighted Correlation Network Analysis.	205-231
+2040	1	\N	Distinguishing Characteristics of Corruption Risks in Iranian Construction Projects: A Weighted Correlation Network Analysis.	205-231
+
+1533	1	1533	Reflection on the Fazlul Sarkar versus PubPeer (John Doe) Case.	323-325
+2041	1	1533	Reflection on the Fazlul Sarkar versus PubPeer (John Doe) Case.	323-325
+
+1833	1	1833	Framework for the Analysis of Nanotechnologies' Impacts and Ethical Acceptability: Basis of an Interdisciplinary Approach to Assessing Novel Technologies.	293-315
+2042	1	\N	Framework for the Analysis of Nanotechnologies' Impacts and Ethical Acceptability: Basis of an Interdisciplinary AppNoach to Assessing Novel Technologies.	293-315
+
+1791	1	1791	Biological Indeterminacy.	447-452
+2043	1	1791	Biological Indeterminacy.	\N
+
+1740	1	1740	Correction to: Mark Coeckelbergh, AI Ethics, Mit Press, 2021.	58
+2044	1	1740	Correction to: Mark Coeckelbergh, AI Ethics, Mit Press, 2021.	58
+
+1607	2	Sci. Eng. Ethics	20	1
+2045	2	Sci. Eng. Ethics	\N	1
+
+1892	2	Sci. Eng. Ethics	16	2
+2046	2	Sci. Eng. Ethics	\N	2
+
+1870	2	Sci. Eng. Ethics	14	2
+2047	2	Sci. Eng. Ethics	14	\N
+
+1685	2	Sci. Eng. Ethics	28	4
+2048	2	Tci. Eng. Ethics	28	4
+
+1543	2	Sci. Eng. Ethics	16	3
+2049	2	Sci. Eng. Ethics	16	3
+
+1765	2	Sci. Eng. Ethics	26	6
+2050	2	Sci. Eng. Ethics	26	6

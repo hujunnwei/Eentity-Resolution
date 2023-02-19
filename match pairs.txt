@@ -1,0 +1,335 @@
+a101	Arnie Morton's of Chicago	310/246-1501	American
+a634	Arnie Morton's of Chicago	310-246-1501	Steakhouses
+
+a110	Cafe Bizou	818/788-3536	French
+a648	Cafe Bizou	818-788-3536	French Bistro
+
+a113	Campanile	213/938-1447	American
+a650	Campanile	213-938-1447	Californian
+
+a119	Citrus	213/857-0034	Californian
+a654	Citrus	213-857-0034	Californian
+
+a246	Dawat	212/355-7555	Asian
+a741	Dawat	212-355-7555	Indian
+
+a102	Art's Delicatessen	818/762-1221	American
+a635	Art's Deli	818-762-1221	Delis
+
+a118	Chinois on Main	310/392-9025	French
+a653	Chinois on Main	310-392-9025	Pacific New Wave
+
+a129	Fenix	213/848-6677	American
+a660	Fenix at the Argyle	213-848-6677	French (New)
+
+a132	Granita	310/456-0488	Californian
+a661	Granita	310-456-0488	Californian
+
+a142	L'Orangerie	310/652-9770	French
+a678	L'Orangerie	310-652-9770	French (Classic)
+
+a146	Locanda Veneta	310/274-1893	Italian
+a685	Locanda Veneta	310-274-1893	Italian
+
+a175	The Palm	310/550-8811	American
+a698	Palm  The (Los Angeles)	310-550-8811	Steakhouses
+
+a701	Philippe The Original	213-628-3781	Cafeterias
+a158	Philippe's The Original	213/628-3781	American
+
+a638	Bel-Air Hotel	310-472-1211	Californian
+a136	Hotel Bel-Air	310/472-1211	Californian
+
+a133	Grill on the Alley	310/276-0615	American
+a662	Grill  The	310-276-0615	American (Traditional)
+
+a674	Katsu	213-665-1891	Japanese
+a166	Restaurant Katsu	213/665-1891	Asian
+
+a683	Le Chardonnay (Los Angeles)	213-655-8880	French Bistro
+a143	Le Chardonnay	213/655-8880	French
+
+a689	Matsuhisa	310-659-9639	Seafood
+a148	Matsuhisa	310/659-9639	Asian
+
+a700	Patina	213-467-1108	Californian
+a156	Patina	213/467-1108	Californian
+
+a704	Pinot Bistro	818-990-0500	French Bistro
+a159	Pinot Bistro	818/990-0500	French
+
+a708	Rex Il Ristorante	213-627-2300	Nuova Cucina Italian
+a167	Rex Il Ristorante	213/627-2300	Italian
+
+a714	Spago (Los Angeles)	310-652-4025	Californian
+a171	Spago	310/652-4025	Californian
+
+a720	Valentino	310-829-4313	Italian
+a179	Valentino	310/829-4313	Italian
+
+a722	Yujean Kang's	818-585-0855	Chinese
+a182	Yujean Kang's Gourmet Chinese Cuisine	818/585-0855	Asian
+
+a724	21 Club	212-582-7200	American (New)
+a183	21 Club	212/582-7200	American
+
+a726	Aquavit	212-307-7311	Scandinavian
+a194	Aquavit	212/307-7311	Continental
+
+a728	Aureole	212-319-1660	American (New)
+a198	Aureole	212/ 319-1660	American
+
+a216	Caf&eacute; Lalo	212/496-6031	Coffee Bar
+a731	Cafe Lalo	212-496-6031	Coffeehouses
+
+a732	Cafe des Artistes	212-877-3500	French (Classic)
+a219	Caf&eacute; des Artistes	212/877-3500	Continental
+
+a733	Carmine's	212-362-2200	Italian
+a231	Carmine's	212/362-2200	Italian
+
+a232	Carnegie Deli	212/757-2245	Delicatessen
+a734	Carnegie Deli	212-757-2245	Delis
+
+a735	Chanterelle	212-966-6960	French (New)
+a235	Chanterelle	212/966-6960	American
+
+a245	Daniel	212/288-0033	French
+a739	Daniel	212-288-0033	French (New)
+
+a745	Felidia	212-758-1479	Italian
+a258	Felidia	212/758-1479	Italian
+
+a270	Four Seasons Grill Room	212/754-9494	American
+a746	Four Seasons	212-754-9494	American (New)
+
+a748	Gotham Bar & Grill	212-620-4020	American (New)
+a282	Gotham Bar & Grill	212/620-4020	American
+
+a283	Gramercy Tavern	212/477-0777	American
+a749	Gramercy Tavern	212-477-0777	American (New)
+
+a752	Island Spice	212-765-1737	Caribbean
+a297	Island Spice	212/765-1737	 tel Caribbean
+
+a301	Jo Jo	212/223-5656	American
+a754	Jo Jo	212-223-5656	French Bistro
+
+a760	La Caravelle	212-586-4252	French (Classic)
+a308	La Caravelle	212/586-4252	French
+
+a762	La Cote Basque	212-688-6525	French (Classic)
+a309	La Cote Basque	212/688-6525	French
+
+a314	Le Bernardin	212/489-1515	French
+a764	Le Bernardin	212-489-1515	Seafood
+
+a766	Les Celebrites	212-484-5113	French (Classic)
+a323	Les C&eacute;l&eacute;brit&eacute;s	212/484-5113	French
+
+a767	Lespinasse (New York City)	212-339-6719	Asian
+a325	Lespinasse	212/339-6719	American
+
+a769	Lutece	212-752-2225	French (Classic)
+a329	Lut&egrave;ce	212/752-2225	French
+
+a334	Manhattan Ocean Club	212/ 371-7777	Seafood
+a770	Manhattan Ocean Club	212-371-7777	Seafood
+
+a771	March	212-754-6272	American (New)
+a336	March	212/754-6272	American
+
+a342	Mesa Grill	212/807-7400	American
+a774	Mesa Grill	212-807-7400	Southwestern
+
+a343	Mi Cocina	212/627-8273	Mexican
+a775	Mi Cocina	212-627-8273	Mexican
+
+a778	Montrachet	212-219-2777	French Bistro
+a347	Montrachet	212/ 219-2777	French
+
+a353	Oceana	212/759-5941	Seafood
+a781	Oceana	212-759-5941	Seafood
+
+a786	Park Avenue Cafe (New York City)	212-644-1900	American (New)
+a362	Park Avenue Cafe	212/644-1900	American
+
+a368	Petrossian	212/245-2214	French
+a789	Petrossian	212-245-2214	Russian
+
+a790	Picholine	212-724-8585	Mediterranean
+a369	Picholine	212/724-8585	Mediterranean
+
+a370	Pisces	212/260-6660	Seafood
+a791	Pisces	212-260-6660	Seafood
+
+a792	Rainbow Room	212-632-5000	American (New)
+a376	Rainbow Room	212/632-5000 or 212/632-5100	American
+
+a793	River Cafe	718-522-5200	American (New)
+a380	River Caf&eacute;	718/522-5200	American
+
+a387	San Domenico	212/265-5959	Italian
+a796	San Domenico	212-265-5959	Italian
+
+a798	Second Avenue Deli	212-677-0606	Delis
+a392	Second Avenue Deli	212/677-0606	Delicatessen
+
+a394	Seryna	212/980-9393	Asian
+a799	Seryna	212-980-9393	Japanese
+
+a800	Shun Lee Palace	212-371-8844	Chinese
+a398	Shun Lee West	212/371-8844	Asian
+
+a399	Sign of the Dove	212/861-8080	American
+a801	Sign of the Dove	212-861-8080	American (New)
+
+a802	Smith & Wollensky	212-753-1530	Steakhouses
+a400	Smith & Wollensky	212/753-1530	American
+
+a409	Tavern on the Green	212/873-3200	American
+a809	Tavern on the Green	212-873-3200	American (New)
+
+a813	Uncle Nick's	212-245-7992	Greek
+a421	Uncle Nick's	212/315-1726	Mediterranean
+
+a422	Union Square Cafe	212/243-4020	American
+a814	Union Square Cafe	212-243-4020	American (New)
+
+a816	Virgil's Real BBQ	212-921-9494	BBQ
+a427	Virgil's	212/ 921-9494	American
+
+a512	Chin's	702/733-8899	Asian
+a825	Chin's	702-733-8899	Chinese
+
+a514	Coyote Caf&eacute;	702/891-7349	Southwestern
+a826	Coyote Cafe (Las Vegas)	702-891-7349	Southwestern
+
+a830	Le Montrachet Bistro	702-732-5651	French Bistro
+a519	Le Montrachet	702/732-5111	Continental
+
+a525	Palace Court	702/731-7547	Continental
+a838	Palace Court	702-731-7110	French (New)
+
+a840	Second Street Grill	702-385-6277	Pacific Rim
+a528	Second Street Grille	702/385-3232	Seafood
+
+a529	Steak House	702/734-0410	Steak Houses
+a842	Steak House  The	702-734-0410	Steakhouses
+
+a846	Tillerman  The	702-731-4036	Steakhouses
+a531	Tillerman	702/731-4036	Seafood
+
+a849	Abruzzi	404-261-8186	Italian
+a435	Abruzzi	404/261-8186	Italian
+
+a440	Bacchanalia	404/365-0410	International
+a851	Bacchanalia	404-365-0410	Californian
+
+a856	Bone's Restaurant	404-237-2663	Steakhouses
+a444	Bone's	404/237-2663	American
+
+a445	Brasserie Le Coze	404/266-1440	French
+a858	Brasserie Le Coze	404-266-1440	French Bistro
+
+a860	Buckhead Diner	404-262-3336	American (New)
+a446	Buckhead Diner	404/262-3336	American
+
+a451	Ciboulette	404/874-7600	French
+a867	Ciboulette Restaurant	404-874-7600	French (New)
+
+a869	Delectables	404-681-2909	Cafeterias
+a457	Delectables	404/681-2909	American
+
+a461	Georgia Grille	404/352-3517	American
+a873	Georgia Grille	404-352-3517	Southwestern
+
+a877	Hedgerose Heights Inn  The	404-233-7673	ontinental
+a462	Hedgerose Heights Inn	404/233-7673	International
+
+a463	Heera of India	404/876-4408	Asian
+a878	Heera of India	404-876-4408	Indian
+
+a881	Indigo Coastal Grill	404-876-0676	Eclectic
+a468	Indigo Coastal Grill	404/876-0676	Caribbean
+
+a470	La Grotta	404/231-1368	Italian
+a886	La Grotta	404-231-1368	Italian
+
+a476	Mary Mac's Tea Room	404/876-1800	Southern
+a889	Mary Mac's Tea Room	404-876-1800	Southern/Soul
+
+a893	Nikolai's Roof	404-221-6362	Continental
+a480	Nikolai's Roof	404/221-6362	Continental
+
+a897	Pano's & Paul's	404-261-3662	American (New)
+a482	Pano's and Paul's	404/261-3662	International
+
+a900	Ritz-Carlton Cafe (Buckhead)	404-237-2700	American (New)
+a447	Caf&eacute;  Ritz-Carlton  Buckhead	404/237-2700	 ext 6108 International
+
+a901	Ritz-Carlton Dining Room (Buckhead)	404-237-2700	American (New)
+a458	Dining Room  Ritz-Carlton  Buckhead	404/237-2700	International
+
+a902	Ritz-Carlton Restaurant	404-659-0400	French (Classic)
+a486	Restaurant  Ritz-Carlton  Atlanta	404/659-0400	Continental
+
+a496	Toulouse	404/351-9533	French
+a908	Toulouse	404-351-9533	French (New)
+
+a911	Veni Vidi Vici	404-875-8424	Italian
+a497	Veni Vidi Vici	404/875-8424	Italian
+
+a537	Alain Rondelli	415/387-0408	French
+a914	Alain Rondelli	415-387-0408	French (New)
+
+a915	Aqua	415-956-9662	American (New)
+a538	Aqua	415/956-9662	Seafood
+
+a544	Boulevard	415/543-6084	American
+a917	Boulevard	415-543-6084	American (New)
+
+a918	Cafe Claude	415-392-3505	French Bistro
+a547	Caf&eacute; Claude	415/392-3505	French
+
+a550	Campton Place	415/955-5555	American
+a922	Campton Place	415-955-5555	American (New)
+
+a924	Chez Michel	415-775-7036	Californian
+a554	Chez Michel	415/775-7036	French
+
+a558	Fleur de Lys	415/673-7779	French
+a931	Fleur de Lys	415-673-7779	French (New)
+
+a932	Fringale	415-543-0573	French Bistro
+a560	Fringale	415/543-0573	French
+
+a568	Hawthorne Lane	415/777-9779	American
+a934	Hawthorne Lane	415-777-9779	Californian
+
+a936	Khan Toke Thai House	415-668-6654	Thai
+a579	Khan Toke Thai House	415/668-6654	Asian
+
+a583	La Folie	415/776-5577	French
+a938	La Folie	415-776-5577	French (New)
+
+a941	LuLu Restaurant-Bis-Cafe	415-495-5775	Mediterranean
+a586	LuLu	415/495-5775	Mediterranean
+
+a589	Masa's	415/989-7154	French
+a944	Masa's	415-989-7154	French (New)
+
+a946	Mifune	415-922-0337	Japanese
+a592	Mifune Japan Center  Kintetsu Building	415/922-0337	Asian
+
+a949	PlumpJack Cafe	415-563-4755	American (New)
+a603	PlumpJack Caf&eacute;	415/563-4755	Mediterranean
+
+a604	Postrio	415/776-7825	American
+a950	Postrio	415-776-7825	Californian
+
+a951	Ritz-Carlton Dining Room (San Francisco)	415-296-7465	French (New)
+a606	Ritz-Carlton Restaurant and Dining Room	415/296-7465	American
+
+a607	Rose Pistola	415/399-0499	Italian
+a953	Rose Pistola	415-399-0499	Italian

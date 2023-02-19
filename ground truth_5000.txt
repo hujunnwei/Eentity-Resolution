@@ -1,0 +1,1496 @@
+2017	0	Vijaya Marakala
+5000	0	Vijaya Marakala
+
+4505	0	Donald F. Sacco
+5001	0	Donald F. SPcco
+
+4353	0	Thomas C. Kwee
+5002	0	Thomas C. Kwee
+
+2352	0	Alexandra Kapeller
+5003	0	Alexandra Kapeller
+
+1587	0	Amos Darko
+5004	0	Amos Darko
+
+4481	0	Tung Tung Chan
+5005	0	Tung Tung Chan
+
+2635	0	Mera Ababneh
+5006	0	Mera Ababneh
+
+2674	0	Michelle Pham
+5007	0	Michelle Pham
+
+1452	0	Heribert Vollmer
+5008	0	Heribert aollmer
+
+2307	0	Matteo Pascucci
+5009	0	Matteo Pascucci
+
+80	0	Udo Pletat
+5010	0	Udo Pletat
+
+3544	0	Susan L. Murray
+5011	0	Susan L. Murray
+
+3116	0	Yvonne Denier
+5012	0	Yvonne $enier
+
+1843	0	Jonathan Genest
+5013	0	Jonathan Genest
+
+4653	0	Tatjana Gazibara
+5014	0	Tatjana#Gazibara
+
+4735	0	Marketta Niemelä
+5015	0	Marketta Niemelä
+
+1836	0	Georges-Auguste Legault
+5016	0	Georges-Auguste Legault
+
+2057	0	Kristine Bærøe
+5017	0	Kristine Bærøe
+
+550	0	Anne Schiller
+5018	0	snne Schiller
+
+4216	0	Joel Lexchin
+5019	0	Joel Lexchin
+
+2332	0	Kristin Berry
+5020	0	Kristin Berry
+
+3610	0	Katharina Fuerholzer
+5021	0	Katharina Fuerholfer
+
+3883	0	Charisse R. Madlock-Brown
+5022	0	Charisse R. Madlock-Brown
+
+1714	0	Zubin Master
+5023	0	Zubin Master
+
+4223	0	Jacob D. Haqq-Misra
+5024	0	Jacob D. Haqq-Misra
+
+3672	0	Jaime Fabregat
+5025	0	Jaime Fabregat
+
+4525	0	Vincent Giorgini
+5026	0	Vincent Giorgini
+
+2101	0	Mohamed Dades
+5027	0	Moha}ed Dades
+
+1664	0	Panagiotis Tsiamyrtzis
+5028	0	Panagiotis Tsia(yrtzis
+
+1795	0	Anders Braarud Hanssen
+5029	0	Anders Braarud Hanssen
+
+4848	0	Paramjit Kaur
+5030	0	Paramjit Kaur
+
+3098	0	Rifat Latifi
+5031	0	Rifat L+tifi
+
+4730	0	John Monk
+5032	0	John Monk
+
+2915	0	Yuan-Yuan Zhang
+5033	0	Yuaq-Yuan Zhang
+
+4410	0	Hacer Basarir
+5034	0	Hacer Basarir
+
+4245	0	Vedran Frkovic
+5035	0	Vedran Frkovic
+
+2778	0	Orlando Cenciarelli
+5036	0	Orlando Cenciarelli
+
+1526	0	Lishan Lan
+5037	0	Lishan Lan
+
+2264	0	Alejandra Boni
+5038	0	Alejandra Bon:
+
+4310	0	Anders Albrechtslund
+5039	0	Anders Albrechtslund
+
+3032	0	Frederik C. Huettenrauch
+5040	0	Frederik C. HDettenrauch
+
+4093	0	Astrid Schmied
+5041	0	Astrid Schmied
+
+4460	0	Donal Heidenblad
+5042	0	Donal Heidenblad
+
+4716	0	Andrew Vert
+5043	0	Andrew Vert
+
+2286	0	Junwen Zhu
+5044	0	Junwen Zhu
+
+2300	0	Katie Caudle
+5045	0	Katie Ca:dle
+
+1904	0	Michelle Takemoto
+5046	0	MichelleETakemoto
+
+3049	0	Clark A. Miller
+5047	0	Clark A. Miller
+
+4012	0	Ahad Faramarz Gharamaleki
+5048	0	Ahad Faramarz Gharamaleki
+
+1559	0	Stephanie J. Bird
+5049	0	Stephanie J. Bird
+
+4164	0	Jacqueline E. W. Broerse
+5050	0	Jacqueline E. W. Broerse
+
+2832	0	Zach Piso
+5051	0	ZCch Piso
+
+4565	0	Nilda Vargas Barbosa
+5052	0	Nilda Vargas Barbosa
+
+606	0	Wilfried Hötker
+5053	0	Wilfried Hötker
+
+4162	0	Frank Kupper
+5054	0	Frank Kupper
+
+2917	0	Ming-Hua Zheng
+5055	0	Ming-Hua Zheng
+
+4630	0	Kiera Reifschneider
+5056	0	Kiera Reifschneider
+
+474	0	Hinrich Schütze
+5057	0	Hinrich Schütze
+
+1544	0	William J. Frey
+5058	0	William J. Frey
+
+2139	0	Mladen Petrovecki
+5059	0	Mladen Petrovecki
+
+4438	0	Tamarinde Haven
+5060	0	Tamarinde caven
+
+3215	0	D. T. Mourya
+5061	0	D. T. Mourya
+
+1766	0	Lisa M. Rasmussen
+5062	0	Lisa M. Rasmussen
+
+4687	0	Edward J. Hackett
+5063	0	Edward J. Hackett
+
+1376	0	C. T. Kelley
+5064	0	C. T. Kelley
+
+4770	0	Mona Andoohgin Shahri
+5065	0	MonayAndoohgin Shahri
+
+2927	0	Scott Robbins
+5066	0	Scott Robbins
+
+823	0	Christian Stangier
+5067	0	Christian Stangier
+
+1688	0	David B. Resnik
+5068	0	David B. Resnik
+
+1937	0	Mary I. Coombs
+5069	0	Mary I. Coombs
+
+1134	0	S. Rotin
+5070	0	S. Rotin
+
+1837	0	Jacques Beauvais
+5071	0	Jacques Beauvais
+
+3794	0	Gillian Beach
+5072	0	Gillian Beach
+
+2916	0	Yu-Chen Fan
+5073	0	Yu-Chen Fan
+
+3831	0	David E. Alexander
+5074	0	David E. Alexander
+
+2151	0	Matthew A. Butkus
+5075	0	MatMhew A. Butkus
+
+3756	0	Dianne Quigley
+5076	0	Dianne Quigley
+
+3141	0	Augustus R. Lumia
+5077	0	AuBustus R. Lumia
+
+2328	0	Sandra L. Titus
+5078	0	Sandra L. Titus
+
+3014	0	Alison L. Antes
+5079	0	Alison |. Antes
+
+3173	0	Krzysztof Rózanowski
+5080	0	Krzyszt%f Rózanowski
+
+1680	0	Mark C. Wallace
+5081	0	Mark C. Waalace
+
+354	0	Andreas Eisele 0001
+5082	0	Andreas Eiselm 0001
+
+2824	0	Michael McNamee
+5083	0	Michael McNamee
+
+53	0	Cetin Ozbutun
+5084	0	CetinwOzbutun
+
+1947	0	Kenneth H. Funk II
+5085	0	Kenneth H. Funk II
+
+2175	0	Christian Hervé
+5086	0	Christian Hervé
+
+2214	0	T. Prabhakar Clement
+5087	0	T. Prabhakar Clement
+
+1247	0	Oleg V. Khamisov
+5088	0	Oleg V. Khamisov
+
+3172	0	Marek Czarkowski
+5089	0	Marek Czarkowski
+
+1927	0	Rickey Y. Yada
+5090	0	Rickey Y. Yada
+
+566	0	Jürgen Pietsch
+5091	0	Jürgen Pietsch
+
+403	0	Karl Dotzek
+5092	0	Karl Dotzek
+
+2713	0	Mishaal Talish
+5093	0	Mishaal Tvlish
+
+2728	0	Donna Riley
+5094	0	Donna Riley
+
+3210	0	San Yin
+5095	0	San YiN
+
+4747	0	Leon R. Kass
+5096	0	Leon R. Kass
+
+4312	0	Mehdi F. Harandi
+5097	0	Mehdi F. Harandi
+
+2416	0	Colin Berry
+5098	0	CMlin Berry
+
+3436	0	Kathryn Nixdorff
+5099	0	Kathryn NQxdorff
+
+2720	0	Jovan Shopovski
+5100	0	Jovan Shopovski
+
+1681	0	Dan Perry
+5101	0	Dan}Perry
+
+3135	0	L. H. Segura Anaya
+5102	0	L. H. Segura Anaya
+
+2457	0	Julian Kinderlerer
+5103	0	Julian Kinderlerer
+
+2721	0	Cezary Bolek
+5104	0	Cezary Bolek
+
+4131	0	Andrei Famenka
+5105	0	ARdrei Famenka
+
+2809	0	Hossein Esmaeili
+5106	0	Hossein Esmaeili
+
+4342	0	Jakob Mökander
+5107	0	Jakob Mökander
+
+3899	0	Sonia López
+5108	0	Sonia Ló#ez
+
+1752	0	Conrad Heilmann
+5109	0	Co&rad Heilmann
+
+3288	0	Rebecca Ann Lind
+5110	0	Rebecca ACn Lind
+
+2873	0	Marzieh Maghrouni
+5111	0	Marzieh Maghrouni
+
+2361	0	Joseph Fortunak
+5112	0	Joseph Fortunak
+
+3690	0	Hangqing Cong
+5113	0	Hangqing Cong
+
+530	0	Bernhard Nebel
+5114	0	Bernhard Nebel
+
+2322	0	Mark S. Davis
+5115	0	Mark S. Davis
+
+4388	0	Masamichi Minehata
+5116	0	Masamichi Minehata
+
+2831	0	Michael O'Rourke
+5117	0	Michael O'Rourke
+
+4945	0	Christophe Schneble
+5118	0	Chr2stophe Schneble
+
+3039	0	Farid Rahimi
+5119	0	Farid Rahimi
+
+3661	0	Jaroslav Zák
+5120	0	Jaros!av Zák
+
+2432	0	Sigrid Sterckx
+5121	0	Sigrid Sterckx
+
+1813	0	Reto W. Kressig
+5122	0	Reto W. Kressig
+
+3952	0	Gary Harrison
+5123	0	Cary Harrison
+
+2880	0	Edward J. Calabrese
+5124	0	Edward J. Calabrese
+
+2249	0	Bridget M. Noonan
+5125	0	Bridget M.5Noonan
+
+1896	0	Luciano Floridi
+5126	0	Luciano #loridi
+
+2518	0	Zoë Robaey
+5127	0	ZoëFRobaey
+
+3192	0	Henk A. M. J. ten Have
+5128	0	HeZk A. M. J. ten Have
+
+777	0	Alexander Kaplan
+5129	0	Alexander Kaplan
+
+4756	0	Richard E. Wokutch
+5130	0	Richard E. Wokutch
+
+3363	0	David Shaw
+5131	0	David ShaI
+
+3923	0	Boudewijn de Bruin
+5132	0	BoYdewijn de Bruin
+
+59	0	Mike Kelley
+5133	0	Mike Kelley
+
+2065	0	Rahul Uday Nayak
+5134	0	Rahul Uday Nayak
+
+72	0	Thomas Ludwig 0001
+5135	0	ThoNas Ludwig 0001
+
+2520	0	Jessica M. Smith
+5136	0	Jessica M. Smith
+
+2627	0	Patricia H. Werhane
+5137	0	Patricia H. Werhane
+
+1283	0	Feng Cheng 0002
+5138	0	Feng Cheng 0002
+
+3777	0	Amir Herzberg
+5139	0	Amir Herzberg
+
+2097	0	Mohamed Abioui
+5140	0	Mohamed Abio^i
+
+3586	0	Paul J. Laurienti
+5141	0	Paul J. Laurienti
+
+4633	0	Steven S. Coughlin
+5142	0	Steven S. Coughlin
+
+655	0	Vera Watson
+5143	0	Vera Watson
+
+3194	0	Greg Rulifson
+5144	0	Greg Rulifson
+
+1704	0	Ana Mlinaric
+5145	0	Ana Mlinaric
+
+2226	0	Gregory J. Morgan
+5146	0	Gregory J. Iorgan
+
+4736	0	Eija Kaasinen
+5147	0	Eij( Kaasinen
+
+3184	0	Ramona C. Albin
+5148	0	Ramona C. Albin
+
+2655	0	Blake J. Bent
+5149	0	BUake J. Bent
+
+2179	0	Eun Ah Lee
+5150	0	Eun Ah Lee
+
+835	0	Wei Zhou 0006
+5151	0	Wei Z?ou 0006
+
+2573	0	Thea Riebe
+5152	0	Thea Riebe
+
+2995	0	David H. Guston
+5153	0	David H. Guston
+
+3407	0	Francisco Lara
+5154	0	FEancisco Lara
+
+2511	0	Andrzej Górski
+5155	0	Andrzej Górski
+
+4588	0	Jac. A. A. Swart
+5156	0	Jac. A. A. Swart
+
+4102	0	Arturo Casadevall
+5157	0	Arturo Casadevall
+
+4275	0	Maarten van Wesel
+5158	0	M<arten van Wesel
+
+4328	0	Amy Andes
+5159	0	Amy Andes
+
+407	0	H. Raymond Strong
+5160	0	H. Raymond Strong
+
+2611	0	Margaret Satterthwaite
+5161	0	Margaret Satterthwaite
+
+3076	0	Abdul Kabir Hussain Solihu
+5162	0	Abdul Kabir Hussain Solihu
+
+2494	0	Richard Meissner
+5163	0	Richard Meissner
+
+3617	0	Giada Goracci
+5164	0	Giada Goracci
+
+900	0	Elena Dubrova
+5165	0	Elena Dubrova
+
+1553	0	Adrian Treloar
+5166	0	Adrian Treloar
+
+4917	0	Giulio Mecacci
+5167	0	Giulio Mzcacci
+
+309	0	Peter Gerstl
+5168	0	Peter Gerstn
+
+3355	0	Christina Gutierrez-Ford
+5169	0	Chri_tina Gutierrez-Ford
+
+1807	0	Mariachiara Tallacchini
+5170	0	Mariachiara Tallacchini
+
+3550	0	Marija Roguljic
+5171	0	Marija Roguljic
+
+3889	0	Aime Keis
+5172	0	Aime Keis
+
+2621	0	Ilse Oosterlaken
+5173	0	Ilse Oosterlaken
+
+1915	0	Todd Abraham
+5174	0	Todd Abraham
+
+1686	0	Taraswi Banerjee
+5175	0	Taraswi Banerjee
+
+290	0	Gregor Erbach
+5176	0	Gregor:Erbach
+
+3769	0	Andreas Matthias
+5177	0	Andreas Matthias
+
+4068	0	Milos N. Mladenovic
+5178	0	Milos N. Oladenovic
+
+4891	0	Kelling J. Donald
+5179	0	Kelling J. Donald
+
+3127	0	Wayne Fuqua
+5180	0	Wayne Fuqua
+
+3358	0	David R. Johnson 0002
+5181	0	David R. Johnson 0002
+
+3501	0	Martin Peterson
+5182	0	Martin Peterson
+
+3674	0	Samuel J. Tilden
+5183	0	Samuel J. Tilden
+
+2594	0	Michael Lemaster
+5184	0	Michael }emaster
+
+2738	0	Sheila Bonde
+5185	0	Sheila Bo3de
+
+2576	0	Céline Kermisch
+5186	0	Céline Kermisch
+
+3497	0	Joshua Dempsey
+5187	0	Joshua Dempsey
+
+1910	0	Mohammad Lagzian
+5188	0	Mohammad Lagzian
+
+47	0	Benjamin Hurwitz
+5189	0	Benjamin Hurwitz
+
+3817	0	Bing Ye
+5190	0	Bing Ye
+
+169	0	Birgit Wendholt
+5191	0	Birgit Wendholt
+
+4463	0	Mary Kendig
+5192	0	Mary Kendig
+
+4300	0	Diane Michelfelder
+5193	0	Diane MichelfeldZr
+
+1918	0	Johanna Dwyer
+5194	0	Johanna Dwyer
+
+843	0	Igor E. Shparlinski
+5195	0	Igor E.>Shparlinski
+
+1096	0	D. Kleis
+5196	0	D. rleis
+
+3159	0	Ralph P. Hall
+5197	0	Ralph PB Hall
+
+3842	0	Michael T. Arts
+5198	0	Michael T. Arts
+
+314	0	Kenneth L. Deckert
+5199	0	Kenneth L. Deckert
+
+4964	0	M. A. Crook
+5200	0	M. A. Crook
+
+3518	0	Arash Karimipour
+5201	0	Arash Karimipour
+
+2697	0	Yuhan Yang
+5202	0	Yuhan Yang
+
+4678	0	Chuanhua Xu
+5203	0	Chuanhua Xu
+
+854	0	Hubertus Th. Jongen
+5204	0	Hubertus @h. Jongen
+
+3782	0	Mohamed Dadda
+5205	0	qohamed Dadda
+
+2823	0	Robert Evans
+5206	0	Robert Evans
+
+2118	0	Nassim Kazitani
+5207	0	Nassim Kazitani
+
+3829	0	Charles Mpofu
+5208	0	Charles Mpofu
+
+2397	0	Milenko Rakic
+5209	0	Milenko Rakic
+
+3928	0	M. Fawwad Ahmed Hussain
+5210	0	M. Fawwad Ahmed HussaUn
+
+2167	0	Charlotte Stix
+5211	0	Charlotte Stix
+
+1509	0	Günther Heinemann
+5212	0	Günther Heinemann
+
+4382	0	Madiha Baharuddin
+5213	0	Madiha Baharuddin
+
+4550	0	Alan Marshall
+5214	0	Alan Marshall
+
+2803	0	Sean Streck
+5215	0	Sean Streck
+
+4436	0	Christian Herzog 0002
+5216	0	Christian Herzog 0002
+
+4852	0	Dale Jamieson
+5217	0	Dale Jamieson
+
+4023	0	Daniel O. Aikhuele
+5218	0	Daniel O. AikhDele
+
+2192	0	Haldun M. Özaktas
+5219	0	Haldun M. Özak<as
+
+2021	0	Yiyang Gao
+5220	0	YiyanL Gao
+
+11	0	Yuval Yarom
+5221	0	Yuval Yarom
+
+2009	0	Douglas Walton
+5222	0	Douglas Walton
+
+4603	0	Maria Shoaib
+5223	0	Maria Shoaib
+
+58	0	Jonathan Bauer
+5224	0	Jonathan Bbuer
+
+3608	0	Zakaria Che Muda
+5225	0	Zakaria Che Muda
+
+2366	0	Kathinka Evers
+5226	0	Kathinka Evers
+
+4324	0	Patrik Baard
+5227	0	Patrik Baard
+
+2783	0	Teresa Rinaldi
+5228	0	Teresa R>naldi
+
+1827	0	Louise Bezuidenhout
+5229	0	Louise Bezuidenhout
+
+1679	0	Gad Perry
+5230	0	Gad Perry
+
+3528	0	Mónica Martínez-Gómez
+5231	0	Móniva Martínez-Gómez
+
+2985	0	Phillip W. Gray
+5232	0	Phillip W. Gray
+
+1402	0	Volker Schmidt
+5233	0	Volker Schmidt
+
+2440	0	Steven R. Kraaijeveld
+5234	0	Steven R. Kraaijeveld
+
+4069	0	Tristram McPherson
+5235	0	Tristram McPherson
+
+1780	0	Frank Ole Flemisch
+5236	0	Frank Ole Flemisch
+
+4262	0	Mansour Ghanian
+5237	0	Man$our Ghanian
+
+733	0	Carsten Damm
+5238	0	Carsten Damm
+
+2502	0	Gudrun Klinker
+5239	0	Gudrun Klink:r
+
+2742	0	Amy Huang
+5240	0	Amy Huang
+
+1635	0	Seumas Miller
+5241	0	Seumas Miller
+
+1451	0	Thomas Schwentick
+5242	0	Thomas Schwentick
+
+3426	0	Justine Lacey
+5243	0	Justine Lacey
+
+4823	0	Yu Xie
+5244	0	Yu Xie
+
+1531	0	Indira Nair
+5245	0	IndYra Nair
+
+3464	0	Michael M. Chemers
+5246	0	MicXael M. Chemers
+
+3450	0	Marshall Thomsen
+5247	0	Marshall Thomsen
+
+24	0	Farshad Nayeri
+5248	0	Farshad Nayeri
+
+3131	0	Hub A. E. Zwart
+5249	0	Hub A. E.qZwart
+
+3152	0	Maurice P. A. Zeegers
+5250	0	Maurice P. A. 3eegers
+
+3236	0	Zeng Jie Ye
+5251	0	Zeng Jie Ye
+
+2589	1	2589	Surrogates and Artificial Intelligence: Why AI Trumps Family.	3217-3227
+5252	1	2589	Surrogates and Artificial Intelligence: Why AI Trumps Faxily.	3217-3227
+
+1218	1	1218	Computational Complexity of Inner and Outer j-RADII of Polytopes in Finite-Dimensional Normed Spaces	\N
+5253	1	1218	Computational Complexity of Inner and Outer j-RADII of Polytopes in Finite-Dimensional Normed Spaces	\N
+
+954	1	954	Scheduling of Virtual Connections in Fast Networks	\N
+5254	1	954	Scheduling of Virtual Connections in Fast Networks	\N
+
+1031	1	1031	Locating Matches of Tree Patterns in Forests	\N
+5255	1	1031	Locating Matches of Tree Patterns in Forests	\N
+
+977	1	977	The WWW meets EDA: Usability evaluation of OBDD-heuristics via the Internet	\N
+5256	1	\N	The WWW meets EDA: Usability evaluation of OBDD-heuristics via the Internet	\N
+
+2430	1	2430	Correction to: Biobanks and Individual Health Related Findings: from an Obstacle to an Incentive.	65
+5257	1	2430	Correction to: Biobanks and Individual Aealth Related Findings: from an Obstacle to an Incentive.	\N
+
+3675	1	3675	The Acid Test for Biological Science: STAP Cells, Trust, and Replication.	147-167
+5258	1	3675	The Acid Test for Biological Science: STAP Cells, Trust, and Replication.	147-167
+
+4411	1	4411	Can Instruction in Engineering Ethics Change Students' Feelings about Professional Responsibility?	201-215
+5259	1	4411	Can Instruction in Engineering Ethics Change Students' Feelings about Professional Responsibility?	201-215
+
+592	1	592	An Anaphora Resolution Procedure for Machine Translation	\N
+5260	1	\N	An Anaphora Resolution Procedure for Machine Translation	\N
+
+4201	1	4201	Evolution of Different Dual-use Concepts in International and National Law and Its Implications on Research Ethics and Governance.	769-790
+5261	1	4201	Evolution of Different Dual-use Concepts in International and National Law and Its Implications on Research Ethics and Governance.	769-790
+
+4775	1	4775	What is Proof of Concept Research and how does it Generate Epistemic and Ethical Categories for Future Scientific Practice?	735-753
+5262	1	4775	What is Proof of Concept Research and how does it Generate Epistemic and Ethical Categories for Future Scientific Practice?	735-753
+
+4892	1	4892	Driving in the Dark: Designing Autonomous Vehicles for Reducing Light Pollution.	387-403
+5263	1	\N	Driving in the Dark: Designing Autonomous Vehicles for Reducing Light Pollution.	387-403
+
+692	1	692	Transitive Closure: New Aspects of an Old Theme	\N
+5264	1	692	Transitive Closure: New Aspects of an Old Theme	\N
+
+4061	1	4061	Preserving Human-Nature's Interaction for Sustainability: Quran and Sunnah Perspective.	1053-1066
+5265	1	\N	Preserving Human-Nature's Interaction for Sustainability: Quran and Sunnah Perspechive.	1053-1066
+
+4608	1	4608	Utilitarianism and the Evolution of Ecological Ethics.	551-573
+5266	1	4608	Utilitarianism and the Evolution of Ecological Ethics.	551-573
+
+3922	1	3922	The Ethics of Cloud Computing.	21-39
+5267	1	3922	The Ethics of Cloud Computing.	\N
+
+2034	1	2034	E-commerce Review System to Detect False Reviews.	1577-1588
+5268	1	2034	E-commerce Review System to Detect False Reviews.	1577-1588
+
+3759	1	3759	Knowledge, Attitudes and Behavioral Intentions of Agricultural Professionals Toward Genetically Modified (GM) Foods: A Case Study in Southwest Iran.	1201-1227
+5269	1	3759	Knowledge, Attitudes and Behavioral Intentions of Agricultural Professionals Toward Genetically Modified (GM) Foods: A Case Study in Southwest Iran.	1201-1227
+
+3390	1	3390	Compliance with National Ethics Requirements for Human-Subject Research in Non-biomedical Sciences in Brazil: A Changing Culture?	693-705
+5270	1	3390	Compliance with National Ethics Requirements for Human-Subject Research in Non-biomedical Sciences in Brazil: A Changing Culture?	693-705
+
+2620	1	2620	Ibo van de Poel and David E. Goldberg (eds): Philosophy and Engineering. An Emerging Agenda - Springer, The Netherlands, 2009, ISBN 978-90-481-2803-7/e-ISBN 978-90-481-2804-4.	629-630
+5271	1	2620	Ibo van de Poel and David E. Goldberg (eds): Philosophy and Engineering. An Emerging Agenda - Springer, The Netherlands, 2009, ISBN 978-90-481-2803-7/e-ISBN 978-90-481-2804-4.	629-630
+
+1153	1	1153	No-Waiting Stations with Special Arrival Processes and Customer Motion	\N
+5272	1	1153	No-Waiting Stations with Special Arrival Processes and Customer Motion	\N
+
+3434	1	3434	Technological Delegation: Responsibility for the Unintended.	51-68
+5273	1	\N	Technological Delegation: Responsibility for the Unintended.	51-68
+
+2447	1	2447	The Wisdom of Caution: Genetic Enhancement and Future Children.	517-530
+5274	1	2447	The Wisdom of Caution: Genetic Enhancement and Future Children.	517-530
+
+910	1	910	External Tangents and Closedness of Cone + Subspace	\N
+5275	1	910	External Tangents and Closedness of Cone + Subspace	\N
+
+3774	1	3774	Ethical Considerations when Employing Fake Identities in Online Social Networks for Research.	1027-1043
+5276	1	3774	Ethical Considerations when Employing Fake Identities in Online Social Networks for Research.	1027-1043
+
+393	1	393	Wissensbasisverwaltung für LILOG	\N
+5277	1	393	Wissensbasisverwaltung für LILOG	\N
+
+2158	1	2158	Organizing a Collaborative Development of Technological Design Requirements Using a Constructive Dialogue on Value Profiles: A Case in Automated Vehicle Development.	49-72
+5278	1	2158	Organizing a Collaborative Development of Technological Design Requirements Using a Constructive Dialogue on Value Profiles: A Case in Automated Vehicle Development.	\N
+
+1764	1	1764	Authorship Policies at U.S. Doctoral Universities: A Review and Recommendations for Future Policies.	3393-3413
+5279	1	1764	Authorship Policies at U.S. Doctoral Universities: A Review and Recommendations for Future Policies.	\N
+
+1290	1	1290	Case Study: Manipulating xor-OBDDs by Means of Signatures	\N
+5280	1	1290	Case Study: Manipulating xor-OBDDs by Means of Signatures	\N
+
+1102	1	1102	Reduction of Generalized Semi-Infinite Programming Problems to Semi-Infinite or Piece-Wise Smooth Programming Problems	\N
+5281	1	1102	Reduction of Generalized Semi-Infinite Programming Problems to Semi-Infinite or Piece-Wise Smooth Programming Problems	\N
+
+2104	1	2104	Research Integrity and Everyday Practice of Science.	685-701
+5282	1	2104	Research Integrity and Everyday Practice of Science.	\N
+
+4126	1	4126	Values, Imagination, and Praxis: Towards a Value Sensitive Future with Technology.	495-499
+5283	1	4126	Values, Imagination, andePraxis: Towards a Value Sensitive Future with Technology.	\N
+
+1015	1	1015	Parallel versus Sequential Task-Processing: A New Performance Model in Discrete Time	\N
+5284	1	1015	Parallel versus Sequential Task-Processing: A New Performance Model in Discrete Time	\N
+
+4910	1	4910	Perceptions of Scientific Authorship Revisited: Country Differences and the Impact of Perceived Publication Pressure.	10
+5285	1	4910	Perceptions of Scientific Authorship Revisited: Country Differences and the Impact of Percei2ed Publication Pressure.	10
+
+2206	1	2206	Professional Ethics of Software Engineers: An Ethical Framework.	417-434
+5286	1	2206	Profes*ional Ethics of Software Engineers: An Ethical Framework.	417-434
+
+192	1	192	A Reusable Lexical Database Tool for Machine Translation	\N
+5287	1	192	A Reusable Lexical Database Tool for Machine Translation	\N
+
+2766	1	2766	Human Genome Editing and Ethical Considerations.	597-599
+5288	1	2766	Human Genome Editing and Ethical Considerations.	597-599
+
+1073	1	1073	Integrating Synchronous and Asynchronous Paradigms: The Fork95 Parallel Programming Language	\N
+5289	1	\N	Integrating Synchronous and Asynchronous Paradigms: The Fork95 Parallel Programming Language	\N
+
+2629	1	2629	The Participation and Motivations of Grant Peer Reviewers: A Comprehensive Survey.	761-782
+5290	1	2629	The Participation and Motivations of Grant Peer Reviewers: A Comprehensive Survey.	761-782
+
+2467	1	2467	Developing a System for Processing Health Data of Children Using Digitalized Toys: Ethical and Privacy Concerns for the Internet of Things Paradigm.	1057-1076
+5291	1	2467	Developing a System for Processing Health Data of Children Using Digitalized Toys: Ethical and Privacy Concerns for the Internet of Things Paradigm.	1057-1076
+
+323	1	323	A WAM Extension for Type-Constraint Logic Programming: Specification and Correctness Proof	\N
+5292	1	323	A WAM Extension for Type-Constraint Logic ProgramminG: Specification and Correctness Proof	\N
+
+4555	1	4555	Midstream Modulation in Biotechnology Industry: Redefining What is 'Part of the Job' of Researchers in Industry.	1141-1164
+5293	1	4555	Midstream Modulation in Biotechnology Industry: jedefining What is 'Part of the Job' of Researchers in Industry.	1141-1164
+
+2970	1	2970	Continuous Evaluation in Ethics Education: A Case Study.	727-754
+5294	1	2970	Continuous Evaluation in Ethics Education: A Case Study.	727-754
+
+620	1	620	THOR - A System for Computing in Equational Theories	\N
+5295	1	\N	THOR - A System for Computing in Equational Theories	\N
+
+2996	1	2996	Uninformed Consent: An Offshoot of Illiteracy and Ignorance.	673-675
+5296	1	2996	Uninformed Consent: An Offhhoot of Illiteracy and Ignorance.	\N
+
+3688	1	3688	Professionalism Among Chinese Engineers: An Empirical Study.	2121-2139
+5297	1	3688	Professionalism Among ChLnese Engineers: An Empirical Study.	2121-2139
+
+1327	1	1327	Ordered Binary Decision Diagrams and Their Significance in Computer-Aided Design of VLSI Circuits	\N
+5298	1	\N	Ordered Binary Decision Diagrams and Their Significance in Computer-Aided Design of VLSI Circuits	\N
+
+4466	1	4466	A Pragmatic Ethic for the Twenty-First Century - Commentary on From Environmental to Ecological Ethics: Toward a Practical Ethics for Ecologists and Conservationists.	503-504
+5299	1	4466	A Pragmatic Ethic for the Twenty-First Century - Commentary on From Environmental to Ecological Ethics: Toward a Practical Ethics for Ecologists and Conservationists.	503-504
+
+2770	1	2770	A Case Study of Teaching Social Responsibility to Doctoral Students in the Climate Sciences.	1491-1504
+5300	1	2770	A Case Study of Teaching Social Responsibility to Doctoral Students in the Climate Sciences.	1491-1504
+
+3788	1	3788	Mad Scientist: The Unique Case of a Published Delusion.	381-388
+5301	1	3788	Mad Scientist: The Unique Case of a Published Delusion.	\N
+
+3235	1	3235	The Challenges of Medical Ethics in China: Are Gene-Edited Babies Enough?	123-125
+5302	1	3235	The Challenges of Medical Ethics in China: Are Gene-Edited Babies Enough?	\N
+
+4271	1	4271	Professional Virtue and Professional Self-Awareness: A Case Study in Engineering Ethics.	109-132
+5303	1	4271	Professional Virtue and Professional Self-Awareness: A Case Study in Engineering Ethics.	109-132
+
+1329	1	1329	Polynomial Constants are Decidable	\N
+5304	1	1329	Polynomial Constants are Decidable	\N
+
+4345	1	4345	Knowledge and Perceptions of Honorary Authorship among Health Care Researchers: Online Cross-sectional Survey Data from the Middle East.	39
+5305	1	\N	Knowledge and Perceptions of Honorary AutNorship among Health Care Researchers: Online Cross-sectional Survey Data from the Middle East.	39
+
+3188	1	3188	Practices for Research Integrity Promotion in Research Performing Organisations and Research Funding Organisations: A Scoping Review.	4
+5306	1	3188	Practices for Research Integrity Promotion in Research Performing Organisations and Research Funding Organisation_: A Scoping Review.	4
+
+4644	1	4644	Intergroup Cooperation in Common Pool Resource Dilemmas.	1197-1215
+5307	1	4644	Intergroup Cooperation in Common Pool Resource Dilemmas.	1197-1215
+
+98	1	98	Dokumentation der Syntax der LILOG-Grammatik	\N
+5308	1	98	Dokumentation der Syntax der LILOG-Gramm>tik	\N
+
+276	1	276	Improving the Concurrency of Integrity Checks and Write Operations	\N
+5309	1	276	Improving the Concurrency of Integrity Checks and Write Operations	\N
+
+2605	1	2605	Normalized Paper Credit Assignment: A Solution for the Ethical Dilemma Induced by Multiple Important Authors.	1589-1601
+5310	1	2605	Normalized Paper Credit Assignment: A Solution for the Ethical Dilemma Induced by Multiple Important Authors.	1589-1601
+
+4699	1	4699	Translating the Human Right to Water and Sanitation into Public Policy Reform.	833-848
+5311	1	4699	Translating the Human Right to Water and SanitatioT into Public Policy Reform.	833-848
+
+484	1	484	Anaphora Resolution for Machine Translation: A Study	\N
+5312	1	484	Anaphora Resolutioy for Machine Translation: A Study	\N
+
+1129	1	1129	Performance Analysis of SDN Specific Error Procedures: Comparison of Step-by-Step and End-to-End Schemes	\N
+5313	1	1129	Performance Analysis of SDN Specific Error Procedures: Comparison of Step-by-Step and End-to-End Schemes	\N
+
+1063	1	1063	On the Rareness of Disturbed Martingales in the Class of all Uniformly L-bounded Stochastic Processes	\N
+5314	1	1063	On the Rareness of Disturbed Martingales in the Class of all Uniformly L-bounded Stochastic Processes	\N
+
+2789	1	2789	Fair Shares: A Preliminary Framework and Case Analyzing the Ethics of Offshoring.	325-353
+5315	1	2789	Fair Shares: A Preliminary Framework and Case Analyzing the Ethics of Offshoring.	325-353
+
+2482	1	2482	Smarter Regulations.	303-309
+5316	1	2482	Smarter Regulations.	303-309
+
+412	1	412	WebS - ein System zur Generierung von Wegbeschreibungen	\N
+5317	1	412	WebS - ein System jur Generierung von Wegbeschreibungen	\N
+
+4121	1	4121	Assessing the Ethics of Medical Research in Emergency Settings: How Do International Regulations Work in Practice?	305-313
+5318	1	4121	Assessing the Ethics of Medical Research in Emergency Settings: How Do #nternational Regulations Work in Practice?	305-313
+
+2046	1	2046	Correctable Myths About Research Misconduct in the Biomedical Sciences.	621-629
+5319	1	2046	Correctable Myths About Research Misconduct in the Biomedical Sciences.	621-629
+
+3490	1	3490	Research and Practice of AI Ethics: A Case Study Approach Juxtaposing Academic Discourse with Organisational Reality.	16
+5320	1	3490	Research and Practice of AI Ethics: A Case Study Approach JuxtaposKng Academic Discourse with Organisational Reality.	\N
+
+2245	1	2245	Hype and Public Trust in Science.	321-335
+5321	1	2245	Hype and Public Trust in Science.	321-335
+
+2751	1	2751	Solving a Wicked Problem in Deep Time: Nuclear Waste Disposal.	21
+5322	1	2751	Solving a Wicked Problem in Deep Time: Nuclear Waste Disposal.	\N
+
+1788	1	1788	Researcher Views About Funding Sources and Conflicts of Interest in Nanotechnology.	699-717
+5323	1	1788	Researcher Views About Funding Sources and Conflicts of Interest in Nanotechnology.	\N
+
+615	1	615	Über die W's der Textgenerierung: Was, wofür, wo und wie: Wissensbasierte Generierung von informierenden Texten in einem Auskunftssystem	\N
+5324	1	\N	Über die W's der Textgenerierung: Was, wofür, wo und wie: Wissensbasierte Generierung von informierenden Texten in einem Auskunftssystem	\N
+
+73	1	73	Wissensrepräsentation und Maschinelles Lernen	\N
+5325	1	73	Wissensrepräsentation und Maschinelles Lernen	\N
+
+4413	1	4413	Working with Research Integrity - Guidance for Research Performing Organisations: The Bonn PRINTEGER Statement.	1023-1034
+5326	1	4413	Working with Research Integrity - Guidance for Research Performing Organisations: The Bonn PRINTEGER Statement.	1023-1034
+
+3882	1	3882	The (lack of) Impact of Retraction on Citation Networks.	127-137
+5327	1	3882	The (lack of) Impact of Retraction on Citation Networks.	127-137
+
+4016	1	4016	Why Frankenstein is a Stigma Among Scientists.	1143-1159
+5328	1	\N	Why Frankenstein is a Stigma Among Scientists.	1143-1159
+
+3247	1	3247	The Ethics of Big Data: Current and Foreseeable Issues in Biomedical Contexts.	303-341
+5329	1	3247	The Ethics of Big Data: Current and Foreseeable Issues in Biomedical Contexts.	303-341
+
+3612	1	3612	Creative Anticipatory Ethical Reasoning with Scenario Analysis and Design Fiction.	2985-3016
+5330	1	3612	Creative Anticipatory Ethical Reasoning with Scenario Analysis and DesiDn Fiction.	2985-3016
+
+4648	1	4648	The Spirituality of Human Consciousness: A Catholic Evaluation of Some Current Neuro-Scientific Interpretations.	483-501
+5331	1	4648	The Spirituality of Human Consciousness: A Catholic Evaluation of Some Current Neuro-Scientific Interpretations.	483-501
+
+2958	1	2958	Solutions to Gender Balance in STEM Fields Through Support, Training, Education and Mentoring: Report of the International Women in Medical Physics and Biomedical Engineering Task Group.	275-292
+5332	1	2958	Solutions to Gender Balance in STEM Fields Through Support, Training, Education and Mentoring: Report of the International Women in Medical Physics and Biomedical Engineering Task Group.	275-292
+
+4791	1	4791	When Public Discourse Mirrors Academic Debate: Research Integrity in the Media.	451-474
+5333	1	4791	When Public Discourse Mirrors Academic Debate: Research Integrity in the Media.	451-474
+
+417	1	417	International Workshop on Terminological Logics - Proceedings	\N
+5334	1	417	International Workshop on Terminological Logics - Proceedings	\N
+
+63	1	63	Object ADTs (with improvements for Value ADTs)	\N
+5335	1	63	Object ADTs (with imxrovements for Value ADTs)	\N
+
+2217	1	2217	Societal and Ethical Implications of Anti-Spoofing Technologies in Biometrics.	155-169
+5336	1	2217	Societal and Ethical Implications of Anti-Spoofing Technologies in Biometrics.	155-169
+
+284	1	284	Der LILOG-DB Fact Manager: Ein Datenbankkern zur Speicherung variabel strukturierter komplexer Objekte	\N
+5337	1	284	Der LILOG-DB Fact Manager: Ein Datenbankkern zur Speicherung variabel strukturierter komplexer Objekte	\N
+
+2450	1	2450	Two Genealogies of Human Values: Nietzsche Versus Edward O. Wilson on the Consilience of Philosophy, Science and Technology.	255-274
+5338	1	2450	Two Genealogies of Human Values: Nietzsche Versus Edward O. Wilson on the Consilience of Philosophy, Science and Technology.	255-274
+
+1524	1	1524	The Rule of Virtue: A Confucian Response to the Ethical Challenges of Technocracy.	64
+5339	1	1524	The Rule of Virtue: A Confucian Response to the Ethical Challenges of Technocracy.	64
+
+325	1	325	Domain Restriction and Other Kinds of Reference Set Operations in Sentence and Discourse Semantics.	\N
+5340	1	325	Domain Restriction and Other Kinds of Reference Set Operations in Sentence and Discourse Semantics.	\N
+
+3764	1	3764	Technological Enthusiasm: Morally Commendable or Reprehensible?	969-980
+5341	1	3764	Technological Enthusiasm: Morally Commendable or Reprehensible?	969-980
+
+356	1	356	Ereignisse und Repräsentationen	\N
+5342	1	356	Ereignisse und RepräsentaAionen	\N
+
+3262	1	3262	Authorship and Publication Practices in the Social Sciences: Historical Reflections on Current Practices.	365-388
+5343	1	3262	Authorship and Publication Practices in the Social Sciences: Historical Reflections on Current Practices.	365-388
+
+2654	1	2654	Individual and Organizational Predictors of the Ethicality of Graduate Students' Responses to Research Integrity Issues.	897-921
+5344	1	2654	Individual and Organizational Predictors of the Ethicality of Graduate Students' Responses to Research Integrity Issues.	897-921
+
+4731	1	4731	Using Student Engagement to Relocate Ethics to the Core of the Engineering Curriculum.	1771-1788
+5345	1	4731	Using Student Engagement to Relocate Ethics to the Core of the Engineering Curriculum.	1771-1788
+
+1275	1	1275	The Möbius Function, Variations Ranks, and Theta(n)-Bounds on the Modular Communication Complexity of the Undirected Graph Connectivity Problem	\N
+5346	1	1275	The Möbius Function, Variations Ranks, and Theta(n)-Bounds on the Modular Communication Complexity of the Undirected Graph Connectivity Problem	\N
+
+561	1	561	Das Problem der VP-Ellipsen im Rahmen einer Theorie der Sachverhaltsanaphern	\N
+5347	1	561	Das Problem der VP-Ellipsen im Rahmen einer Theorie der Sachverhaltsanaphern	\N
+
+1874	1	1874	Biosecurity and Open-Source Biology: The Promise and Peril of Distributed Synthetic Biological Technologies.	1065-1083
+5348	1	1874	Biosecurity and Open-Source Biology: The Promise and Peril of Distributed Synthetic Biological Technologies.	1065-1083
+
+4021	1	4021	Unethical Admissions: Academic Integrity in Question.	1237-1239
+5349	1	4021	Unethical Admissions: Academic Integrity in Question.	\N
+
+3456	1	3456	Technology Games: Using Wittgenstein for Understanding and Evaluating Technology.	1503-1519
+5350	1	\N	Technology Games: Using Wittgenstein for Understanding and Evaluating Technology.	1503-1519
+
+4497	1	4497	Eighteen rules for writing a code of professional ethics.	171-189
+5351	1	\N	Eighteen rules for writing a code of professional ethics.	171-189
+
+50	1	50	Object Oriented DBMS as a Generalization of Relational DBMS	\N
+5352	1	50	Object Oriented DBMS as a Generalization of Relational DBMS	\N
+
+4908	1	4908	Intervention to Promote Responsible Conduct of Research Mentoring.	699-725
+5353	1	4908	Intervention to Promote Responsible Cond!ct of Research Mentoring.	\N
+
+3216	1	3216	European Public Deliberation on Brain Machine Interface Technology: Five Convergence Seminars.	1071-1086
+5354	1	\N	European Public Deliberation on Brain Machine Interface Technology: Five Convergence Seminars.	1071-1086
+
+385	1	385	Sorted Feature Terms and Relational Dependencies	\N
+5355	1	385	Sorted Feature Terms and Relational Dependencies	\N
+
+2110	1	2110	Engineering Good: How Engineering Metaphors Help us to Understand the Moral Life and Change Society.	371-385
+5356	1	2110	Engineering Good: How Engineering Metaphors Help us to Understand the Mora% Life and Change Society.	371-385
+
+1065	1	1065	A Tool for Simulation of Markov Modulated Finite-Source Queueing Systems	\N
+5357	1	\N	A Tool for Simulation of Markov Modulated Finite-Source Queueing Systems	\N
+
+1331	1	1331	Spatial Generalization of BMAP's with Finite State Space	\N
+5358	1	1331	Spatial Generalization of BMAP's with Finite State Space	\N
+
+4986	1	4986	Robotic Nudges: The Ethics of Engineering a More Socially Just Human Being.	31-46
+5359	1	4986	Robotic Nudges: The Ethics of Engineering a More Sociully Just Human Being.	\N
+
+167	1	167	DInG - ein Domänen-orientierter Inkrementeller und Integrierter Generator für kohärente Texte	\N
+5360	1	167	DInG - ein Domänen-orientierter Inkrementeller und Integrierter Generator für kohärente Texte	\N
+
+696	1	696	Die Sloppy/Referenzielle Ambiguität: Bildungssyntax oder Diskursrepräsentationstheorie?	\N
+5361	1	696	Die Sloppy/Referenzielle Ambiguität: Bildungssyntax oder Diskursrepräsentationstheorie?	\N
+
+539	1	539	OSKAR - A PROLOG Programm for Modelling Dimensional Designation and Positional Variation of Objects in Space	\N
+5362	1	539	OSKAR - A PROLOG Programm for Modelling Dimensional Designation and Positional Variation of Objects in Space	\N
+
+2146	1	2146	Energy Constraints.	313-319
+5363	1	2146	Energy Constraints.	313-319
+
+594	1	594	Natural Language Understanding in LILOG: An Intermediate Overview	\N
+5364	1	594	Natural Language Understanding in LILOG: An Intermediate Overview	\N
+
+3227	1	3227	Ethics in Actor Networks, or: What Latour Could Learn from Darwin and Dewey.	23-40
+5365	1	3227	Ethics in Actor Networks, or: What Latour Could Learn from Darwin and Dewey.	23-40
+
+1676	1	1676	The Three Rs of Animal Research: What they Mean for the Institutional Animal Care and Use Committee and Why.	549-565
+5366	1	1676	The Three Rs of Animal Research: What they Mean for the Institutional Animal Care and Use Committee and Why.	549-565
+
+2747	1	2747	Conflict(s) of Interest in Peer Review: Its Origins and Possible Solutions.	55-75
+5367	1	\N	Conflict(s) of Interest in Peer Review: Its Origins and Possible Solu%ions.	55-75
+
+3858	1	3858	Research without Consent: Exception from and Waiver of Informed Consent in Resuscitation Research.	361-369
+5368	1	3858	Research without Consent: Exception from and Waiver of Informed Consent in Resuscitation Research.	361-369
+
+2144	1	2144	The Good Engineer: Giving Virtue its Due in Engineering Ethics.	153-164
+5369	1	2144	The Good Engineer: Giving Virtue its Due in Engineering Ethics.	\N
+
+4491	1	4491	Clinical Study Reflections: Another View - Commentary on: Raising Suspicions with the Food and Drug Administration: Detecting Misconduct.	705-711
+5370	1	4491	Clinical Study Reflections: Another View - Commentary on: Raising Suspicions with the Food and Drug Administration: Detecting Misconduct.	705-711
+
+2209	1	2209	In Memoriam: Edmund Pellegrino (June 22, 1920-June 13, 2013).	307-311
+5371	1	2209	In Memoriam: Edmund Pellegrino (June 22, 1920-June 13, 2013).	\N
+
+1193	1	1193	A Modal µ-Calculus for Durational Transition Systems	\N
+5372	1	1193	A Modal µ-Calculus for Durational Transition Systems	\N
+
+4134	1	4134	The Ethics of Anti-aging Clinical Trials.	441-453
+5373	1	4134	The Ethics of rnti-aging Clinical Trials.	441-453
+
+4992	1	4992	Research Ethics: Researchers Consider How Best to Prevent Misconduct in Research in Malaysian Higher Learning Institutions Through Ethics Education.	1111-1124
+5374	1	4992	Research Ethics: Researchers Consider How Best to Prevent Misconduct in Research in Malaysian Higher Learning Institutions Through Ethics Education.	1111-1124
+
+3435	1	3435	Education for Life Scientists on the Dual-Use Implications of Their Research - Commentary on Implementing Biosecurity Education: Approaches, Resources and Programmes.	1487-1490
+5375	1	3435	Education for Life Scientists on the Dual-Use Implications of Their Research - Commentary on Implementing Biosecurity Education: Approaches, Resources and Programmes.	\N
+
+3091	1	3091	Reversible Experiments: Putting Geological Disposal to the Test.	707-733
+5376	1	\N	Reversible Experiments: Putting Geological Disposal to the Tesi.	707-733
+
+82	1	82	A Combined Symbolic-Empirical Apprach for the Automatic Translation of Compounds	\N
+5377	1	82	A Combined Symbolic-Empirical Apprach for the Automatic Translation of Compounds	\N
+
+2243	1	2243	Information and Communication Technologies, Genes, and Peer-Production of Knowledge to Empower Citizens' Health.	871-885
+5378	1	\N	Information and Communication Technologies, Genes, and Peer-Production of Knowledge to Empower Citizens' Health.	871-885
+
+4340	1	4340	Blind Manuscript Submission to Reduce Rejection Bias?	535-539
+5379	1	4340	Blind Manuscript Submission to Reduce Rejection Bias?	\N
+
+4585	1	4585	Changes in the Social Responsibility Attitudes of Engineering Students Over Time.	1535-1551
+5380	1	\N	Changes in the Social Responsibility Attitudes of Engineering Students Over Time.	1535-1551
+
+4759	1	4759	Integrity in Biomedical Research: A Systematic Review of Studies in China.	1271-1301
+5381	1	4759	Integrity in Biomedical Research: A Systematic Review of Studies in China.	1271-1301
+
+4287	1	4287	On the Use of the Concept of Fairness in Ethics.	601-603
+5382	1	\N	On the Use of the Concept of Fairness in Ethics.	601-603
+
+4960	1	4960	Human Embryonic Stem Cell Research: Ethical Views of Buddhist, Hindu and Catholic Leaders in Malaysia.	467-485
+5383	1	\N	Human Embryonic Stem Cell Research: Ethical Views of Buddhist, Hindu and Catholic Leaders in Malaysia.	467-485
+
+4104	1	4104	Critiquing a Critique - A Comment on A Critique of Positive Responsibility in Computing.	245-249
+5384	1	\N	Critiquing a Critique - A Comment on A Critique of Positive Responsibility in Computing.	245-249
+
+4737	1	4737	Gene Concepts and Genethics: Beyond Exceptionalism.	357-375
+5385	1	4737	Gene Concepts and Genethics: Beyond Exceptionalism.	357-375
+
+3198	1	3198	Should Engineering Ethics be Taught?	583-596
+5386	1	3198	Should Engineering Ethics be Taught?	583-596
+
+129	1	129	LMT - Machine Translation Demonstration	\N
+5387	1	129	LMT - Machine Translation Demonstration	\N
+
+852	1	852	On Generic One-Parametric Semi-Infinite Optimization	\N
+5388	1	852	On Generic One-Parametric Semi-Infinite Optimization	\N
+
+1008	1	1008	On Multiplicative Structure in Quasi-Newton Methods for Nonlinear Equations	\N
+5389	1	1008	On Multiplicative Structure in Quasi-Newton Methods for Nonlinear Equations	\N
+
+182	1	182	Zur Behandlung komplexer Objekte in LILOG	\N
+5390	1	182	Zur Behandlung komplexer Objekte in LILOG	\N
+
+3653	1	3653	Are Moral Emotions Key to Informed Risk Decisions? A Commentary on Sabine Roeser, Risk, Technology, and Moral Emotions.	1891-1902
+5391	1	\N	Are Moral Emotions Key to Informed Risk Decisions? A Commentary on Sabine 8oeser, Risk, Technology, and Moral Emotions.	1891-1902
+
+4302	1	4302	Editorial Board Self-Publishing Rates in Czech Economic Journals.	669-682
+5392	1	4302	Editoriyl Board Self-Publishing Rates in Czech Economic Journals.	669-682
+
+1241	1	1241	Zur Berechnung optimaler Steuerungen über Momentenungleichungen	\N
+5393	1	1241	Zur Berechnung optimaler Steuerungen über Momentenungleichungen	\N
+
+2659	1	2659	On Social Attribution: Implications of Recent Cognitive Neuroscience Research for Race, Law, and Politics.	557-566
+5394	1	2659	On Social Attribution: Implications of Recent Cognitive Neuroscience Research for Race, Law, and Politics.	\N
+
+3030	1	3030	Contextualizing Security Innovation: Responsible Research and Innovation at the Smart Border?	13
+5395	1	3030	Contextualizing Security Innovation: Responsible Research and Innovation at the Smart Border?	13
+
+3949	1	3949	A Conflict of Interest Disclosure Policy for .	149-152
+5396	1	3949	A Conflict of Interest Disclosure Policy for .	\N
+
+3133	1	3133	No One Likes a Snitch.	813-819
+5397	1	3133	NoTOne Likes a Snitch.	813-819
+
+2663	1	2663	Gender and Age Stereotypes in Robotics for Eldercare: Ethical Implications of Stakeholder Perspectives from Technology Development, Industry, and Nursing.	34
+5398	1	2663	Gender and Age Stereotypes in Robotics for Eldercare: Ethical Implications of StakeholdXr Perspectives from Technology Development, Industry, and Nursing.	\N
+
+157	1	157	Konzeption und Implementierung von Gleichheit für einen tableau-basierten Theorem-Beweiser	\N
+5399	1	157	Konzeption und Implementierung von Gleichheit für einen tableau-basierten Theorem-Beweiser	\N
+
+1259	1	1259	Analysis and Manipulation of Boolean Functions in Terms of Decision Graphs	\N
+5400	1	1259	Analysis and Manipulation of Boolean Functions in Terms of Decision Graphs	\N
+
+1295	1	1295	Operator-Geometric Solutions for the M/G/k Queue and its Variants	\N
+5401	1	1295	Operator-Geometric Solutions for the M/G/k Queue and its Variants	\N
+
+1237	1	1237	A Product Theorem for Markov Chains with Application to PF-Queueing Networks	\N
+5402	1	\N	A Product Theorem for Markov Chains with Application to PF-Queueing Networks	\N
+
+4125	1	4125	Indexing Versus Journal Ethics.	981-983
+5403	1	4125	Indexing Versus Journal Ethics.	981-983
+
+4260	1	4260	Moral Machines?	411-417
+5404	1	\N	Moral Machines?	411-417
+
+4706	1	4706	The Conception of Synthetic Entities from a Personalist Perspective.	97-111
+5405	1	4706	The Conception of Synthetic Entities from a Personalist Perspective.	\N
+
+915	1	915	On Graph Models for Communicating Mobiles in Access Areas	\N
+5406	1	915	On Graph Models for Communicating Mobiles in Access Areas	\N
+
+1148	1	1148	Optimal Static Output Feedback Design By Using a Trust Region Interior Point Method	\N
+5407	1	1148	Optimap Static Output Feedback Design By Using a Trust Region Interior Point Method	\N
+
+3124	1	3124	Coding Ethical Decision-Making in Research.	121-146
+5408	1	3124	Coding Ethical Decision-Making in Research.	121-146
+
+2834	1	2834	Assessing Security Technology's Impact: Old Tools for New Problems.	659-673
+5409	1	2834	Assessing Security Technology's Impact: Old Tools for New Problems.	\N
+
+4822	1	4822	Prevalence of Research Misconduct and Questionable Research Practices: A Systematic Review and Meta-Analysis.	41
+5410	1	\N	Prevalence of Research Misconduct and Questionable Research Practices: A Systematic Review and Meta-Analysis.	41
+
+1603	1	1603	Training STEM Ph.D. Students to Deal with Moral Dilemmas.	1861-1872
+5411	1	1603	Trainin6 STEM Ph.D. Students to Deal with Moral Dilemmas.	1861-1872
+
+2010	1	2010	Looking Back, Looking Forward: Review of A. Briggle, P. Brey and E. Spence (eds.): The Good Life in a Technological Age - Routledge, New York, 2012, 358 pp, ISBN: 978-0-415-89126-4.	1691-1697
+5412	1	\N	Looking Back, Looking Forward: Review of A. Briggle, P. Brey and E. Spence (eds.): The Good Life in a Technological Age - Routledge, New York, 2012, 358 pp, ISBN: 978-0-415-89126-4.	1691-1697
+
+1382	1	1382	A Piecewise-Deterministic Model for Brownian Motion	\N
+5413	1	1382	A Piecewise-DeterministicdModel for Brownian Motion	\N
+
+4712	1	4712	Self-reflection for Activist Engineering.	1329-1352
+5414	1	4712	Self-reflection for Activist Engineering.	1329-1352
+
+4155	1	4155	Reexamining the Ethics of Nuclear Technology.	999-1018
+5415	1	4155	Reexamining the Ethics of Nuclear Technology.	999-1018
+
+25	1	25	Object Model Capabilities For Distributed Object Management.	\N
+5416	1	\N	Object Model Capabilities For Distributed Object Management.	\N
+
+719	1	719	Finding Scientific Papers with HPSearch and MOPS	\N
+5417	1	719	Finding Scientific Papers with HPSearch and MOPS	\N
+
+141	1	141	An Overview on Planning Applications in PROTOS-L	\N
+5418	1	141	An Overview on Planning Applications in PROTOS-L	\N
+
+2085	1	2085	Ethical Decision Making in the Conduct of Research: Role of Individual, Contextual and Organizational Factors - Commentary on Science, Human Nature, and a New Paradigm for Ethics Education.	551-555
+5419	1	2085	Ethical Decision Making in the Conduct of Research: Role of Individual, Contextual and Organizational Factors - Commentary on Science, Human Nature, and a New Paradigm for Ethics Education.	551-555
+
+4551	1	4551	 - Ethical Considerations on Consent for Inclusion in Emergency Pharmacological Research in Severe Traumatic Brain Injury in the European Union.	371-381
+5420	1	4551	 - Ethical Considerations on Consent for Inclusion in Emergency Pharmacological Research in Severe Traumatic Brain Injury in the European Union.	371-381
+
+4658	1	4658	The ethics of biometrics: the risk of social exclusion from the widespread use of electronic identification.	45-54
+5421	1	4658	The ethics of biometrics: the risk of social exclusion from the widespread use of electronic identification.	\N
+
+4150	1	4150	The Bioterrorism Threat and Dual-use Biotechnological Research: An Israeli Perspective.	85-97
+5422	1	4150	The Bioterrorism Threat and Dual-use Biotechnological Research: An Israeli Perspective.	85-97
+
+1742	1	1742	A Survey of Expectations About the Role of Robots in Robot-Assisted Therapy for Children with ASD: Ethical Acceptability, Trust, Sociability, Appearance, and Attachment.	47-65
+5423	1	1742	A Survey of Expectations About the Role of Robots in Robot-Assisted Therapy for Children with ASD: Ethical Acceptability, Trust, Sociability, Appearance, and Attachment.	47-65
+
+4404	1	4404	Attitudes and Knowledge About Plagiarism Among University Students: Cross-Sectional Survey at the University of Split, Croatia.	1467-1483
+5424	1	4404	Aititudes and Knowledge About Plagiarism Among University Students: Cross-Sectional Survey at the University of Split, Croatia.	1467-1483
+
+2346	1	2346	Science, Technology and Innovation as Social Goods for Development: Rethinking Research Capacity Building from Sen's Capabilities Approach.	671-692
+5425	1	2346	Science, Technology and Innovation as Social Goods for Development: Rethinking Research Capacity Building from Sen's Capabilities Approach.	671-692
+
+307	1	307	Mengenkonzepte in Unifikationsgrammatiken	\N
+5426	1	307	Mengenkonzepte in Unifikationsgrammatiken	\N
+
+3996	1	3996	Retraction and Research Integrity Education in China.	325-326
+5427	1	3996	Retraction and Research Integrity Education in China.	325-326
+
+1592	1	1592	Facilitating Ethical Reflection Among Scientists Using the Ethical Matrix.	425-445
+5428	1	\N	Facilitating Ethical Reflection Among Scientists Using the Ethical Matrix.	425-445
+
+1358	1	1358	On Regularisation of Nonconvex Problems	\N
+5429	1	1358	On Regularisation of Nonconvex Problems	\N
+
+4175	1	4175	The Internet as Cognitive Enhancement.	2345-2362
+5430	1	4175	The Internet as Cognitive Enhancement.	2345-2362
+
+1426	1	1426	Combinational Logic Verification with FBDDs	\N
+5431	1	\N	Combinationfl Logic Verification with FBDDs	\N
+
+1317	1	1317	Distributed Script - A Mobile Application for Multi-hop Ad-hoc Networks	\N
+5432	1	\N	Distributed Script - A Mobile ApplicationKfor Multi-hop Ad-hoc Networks	\N
+
+2433	1	2433	Informing Public Perceptions About Climate Change: A 'Mental Models' Approach.	1369-1386
+5433	1	2433	Informing Public Perceptions About Climate Change: A 'Mental Models' Approach.	1369-1386
+
+2808	1	2808	The Autonomy of Science as a Civilian Casualty of Economic Warfare: Inadvertent Censorship of Science Resulting from Unilateral Economic Sanctions.	49
+5434	1	2808	The Autonomy of Science as a Civilian Casualty of Economic Warfare: Inadvertent Censorship of Science Resulting from Unilateral Economic Sanctions.	49
+
+1264	2	Universität Trier, Mathematik/Informatik, Forschungsbericht	01-14	\N
+5435	2	Universität Trier, Mathematik/Informatik, Forschungsbericht	01-14	\N
+
+42	2	GTE Laboratories Incorporated	TM-0332-11-90-165	\N
+5436	2	GTE Laboratories Incorporated	TM-0332-11-90-165	\N
+
+678	2	LILOG-Report	28	\N
+5437	2	LILOG-Report	28	\N
+
+1068	2	Universität Trier, Mathematik/Informatik, Forschungsbericht	93-05	\N
+5438	2	Universität Trier, Mathematik/Informatik, Forschungsbericht	\N	\N
+
+1789	2	Sci. Eng. Ethics	18	4
+5439	2	Sci. Eng. Ethics	18	4
+
+1443	2	Universität Trier, Mathematik/Informatik, Forschungsbericht	93-20	\N
+5440	2	Universität Trier, Mathematik/Informatik, Forschungsbericht	93-20	\N
+
+1485	2	Research Report / RJ / IBM / San Jose, California	RJ893	\N
+5441	2	Research Report / RJ / IBM / San Jose, California	RJ893	\N
+
+2448	2	Sci. Eng. Ethics	15	4
+5442	2	S~i. Eng. Ethics	15	4
+
+88	2	LILOG-Memo	2	\N
+5443	2	LILOG-Memo	2	\N
+
+873	2	Universität Trier, Mathematik/Informatik, Forschungsbericht	06-01	\N
+5444	2	Universität Trier, Mathematik/Informatik, Fors9hungsbericht	\N	\N
+
+1361	2	Universität Trier, Mathematik/Informatik, Forschungsbericht	94-06	\N
+5445	2	Universität Trier, Mathematik/Informatik, Forschungsbericht	94-06	\N
+
+1128	2	Universität Trier, Mathematik/Informatik, Forschungsbericht	92-10	\N
+5446	2	Universität Trier, Mathematik/Informatik, Forschungsbericht	92-10	\N
+
+1462	2	Universität Trier, Mathematik/Informatik, Forschungsbericht	92-23	\N
+5447	2	Universität Trier, Mathematik/Informatik, Forschungsbericht	92-23	\N
+
+1325	2	Universität Trier, Mathematik/Informatik, Forschungsbericht	93-19	\N
+5448	2	Universität Trier, Mathematik/Informatik, Forschungsbericht	93-19	\N
+
+673	2	Research Report / RJ / IBM / San Jose, California	RJ2274	\N
+5449	2	Research Report / RJ / IBM / San Jose, California	RJ2274	\N
+
+839	2	Universität Trier, Mathematik/Informatik, Forschungsbericht	94-14	\N
+5450	2	Universität Trier, Mathematik/Informatik, Forschungsbericht	94-14	\N
+
+741	2	Universität Trier, Mathematik/Informatik, Forschungsbericht	00-01	\N
+5451	2	UniverEität Trier, Mathematik/Informatik, Forschungsbericht	00-01	\N
+
+49	2	University of California at Berkeley	UCB/ERL M79/28	\N
+5452	2	University of California at Berkelee	UCB/ERL M79/28	\N
+
+51	2	ANSI X3H2	X3H2-90-412	\N
+5453	2	ANSI X3H2	X3H2-90-412	\N
+
+135	2	IWBS Report	154	\N
+5454	2	IWBS Report	\N	\N
+
+936	2	Universität Trier, Mathematik/Informatik, Forschungsbericht	98-10	\N
+5455	2	Universität Trier, Mathematik/Informatik, Forschungsbericht	98-10	\N
+
+418	2	IWBS Report	184	\N
+5456	2	IWBS Report	\N	\N
+
+95	2	LILOG-Report	53	\N
+5457	2	LILOG-Report	53	\N
+
+1242	2	Universität Trier, Mathematik/Informatik, Forschungsbericht	00-04	\N
+5458	2	Universität Trier, Mathematik/Informatik, Forschungsbericht	00-04	\N
+
+1624	2	Sci. Eng. Ethics	22	6
+5459	2	Sci. Eng. Ethics	22	\N
+
+562	2	IWBS Report	123	\N
+5460	2	IWBS Report	123	\N
+
+2153	2	Sci. Eng. Ethics	19	1
+5461	2	Sci. Eng. Ethics	19	1
+
+147	2	IWBS Report	68	\N
+5462	2	IWBS Report	68	\N
+
+902	2	Universität Trier, Mathematik/Informatik, Forschungsbericht	98-05	\N
+5463	2	Universität Trier, Mathematik/Informatik, Forschungsbericht	98-05	\N
+
+1772	2	Sci. Eng. Ethics	17	4
+5464	2	Sci. Eng. Ethics	17	4
+
+857	2	Universität Trier, Mathematik/Informatik, Forschungsbericht	93-11	\N
+5465	2	Universität Trier, Mathematik/Informatik, Forschungsbericht	\N	\N
+
+1466	2	Universität Trier, Mathematik/Informatik, Forschungsbericht	92-15	\N
+5466	2	Universität Trier, Mathematik/Informatik, Forschungsbericht	92-15	\N
+
+1330	2	Universität Trier, Mathematik/Informatik, Forschungsbericht	02-09	\N
+5467	2	Universität Trier, Mathematik/Informatik, Forschungsbericht	02-09	\N
+
+1437	2	Universität Trier, Mathematik/Informatik, Forschungsbericht	96-20	\N
+5468	2	Universität Trier, Mathematik/Informatik, Forschungsbericht	96-20	\N
+
+99	2	LILOG-Memo	9	\N
+5469	2	LILOG-Memo	9	\N
+
+738	2	Universität Trier, Mathematik/Informatik, Forschungsbericht	94-10	\N
+5470	2	Universität Trier, Mathematik/Informatik, Forschungsbericht	94-10	\N
+
+1151	2	Universität Trier, Mathematik/Informatik, Forschungsbericht	99-10	\N
+5471	2	Universität Trier, Mathematik/Informatik, Forschungsbericht	99-10	\N
+
+121	2	IWBS Report	228	\N
+5472	2	IWBS Rep*rt	228	\N
+
+907	2	Universität Trier, Mathematik/Informatik, Forschungsbericht	98-23	\N
+5473	2	Universität Trier, Mathematik/Informatik, Forschungsbericht	98-23	\N
+
+137	2	IWBS Report	150	\N
+5474	2	IWBS Peport	150	\N
+
+391	2	IWBS Report	70	\N
+5475	2	wWBS Report	70	\N
+
+988	2	Universität Trier, Mathematik/Informatik, Forschungsbericht	96-39	\N
+5476	2	Universität Trier, MathemaCik/Informatik, Forschungsbericht	96-39	\N
+
+1530	2	Sci. Eng. Ethics	26	1
+5477	2	Sci. Eng. Ethics	26	1
+
+1055	2	Universität Trier, Mathematik/Informatik, Forschungsbericht	92-04	\N
+5478	2	Universität Trier, Mathematik/Informatik, Forschungsbericht	92-04	\N
+
+180	2	IWBS Report	220	\N
+5479	2	IWBU Report	220	\N
+
+853	2	Universität Trier, Mathematik/Informatik, Forschungsbericht	95-06	\N
+5480	2	Universität Trier, Mathematik/Informatik, Forschungs$ericht	95-06	\N
+
+760	2	Universität Trier, Mathematik/Informatik, Forschungsbericht	98-07	\N
+5481	2	Universität Trier, Mathematik/Informatik, Forschungsbericht	\N	\N
+
+241	2	LILOG-Report	19	\N
+5482	2	LILOU-Report	19	\N
+
+499	2	LILOG-Report	39	\N
+5483	2	LILOG-Report	39	\N
+
+188	2	LILOG-Report	38	\N
+5484	2	LILOG-Report	38	\N
+
+1032	2	Universität Trier, Mathematik/Informatik, Forschungsbericht	98-08	\N
+5485	2	Universität Trier, Mathematik/Informatik, Forschungsbericht	98-08	\N
+
+1865	2	Sci. Eng. Ethics	13	2
+5486	2	Sci. Eng. Ethics	\N	2
+
+611	2	LILOG-Report	9	\N
+5487	2	LILOG-Report	9	\N
+
+256	2	LILOG-Report	10	\N
+5488	2	LILOG-Report	10	\N
+
+270	2	IWBS Report	205	\N
+5489	2	IWBS Report	205	\N
+
+402	2	IWBS Report	110	\N
+5490	2	IWBS Report	\N	\N
+
+732	2	Universität Trier, Mathematik/Informatik, Forschungsbericht	98-06	\N
+5491	2	Universität Trier, Mathematik/Informatik, Forschungsbericht	\N	\N
+
+1941	2	Sci. Eng. Ethics	27	3
+5492	2	Sci. Eng. Eth+cs	27	3
+
+905	2	Universität Trier, Mathematik/Informatik, Forschungsbericht	95-04	\N
+5493	2	Universität Trier, Mathematik/Informatik, Forschungsbericht	95-04	\N
+
+913	2	Universität Trier, Mathematik/Informatik, Forschungsbericht	97-27	\N
+5494	2	Universität Trier, Mathematik/Informatik, Forschungsbericht	97-27	\N
+
+682	2	IWBS Report	229	\N
+5495	2	IWBS Report	\N	\N
+
+966	2	Universität Trier, Mathematik/Informatik, Forschungsbericht	92-06	\N
+5496	2	Universität Trier, Mathematik/Informatik, Forschungsbericht	92-06	\N
+
+642	2	IWBS Report	173	\N
+5497	2	IWBS Report	173	\N
+
+481	2	IWBS Report	179	\N
+5498	2	IWBS Report	179	\N
