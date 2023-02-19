@@ -1,0 +1,549 @@
+1488	0	Rita Ley
+1489	0	Markus Casper
+1504	1	1504	Analysis of projected hydrological behavior of catchments based on signature indices	409-421
+1505	2	Hydrology and Earth System Sciences	16	\N
+1506	0	Gayane Grigoryan
+1507	0	Oliver Gronz
+1508	0	Oliver Gutjahr
+1509	0	Günther Heinemann
+1510	0	Andreas Rock
+1511	1	1511	An Ethics of the System: Talking to Scientists About Research Integrity.	1235-1253
+1512	2	Sci. Eng. Ethics	25	4
+1513	0	Sarah R. Davies
+1514	1	1514	The Acceptability and the Tolerability of Societal Risks: A Capabilities-based Approach.	77-92
+1515	2	Sci. Eng. Ethics	14	1
+1516	0	Colleen Murphy
+1517	0	Paolo Gardoni
+1518	1	1518	Computational Goals, Values and Decision-Making.	2487-2495
+1519	2	Sci. Eng. Ethics	26	5
+1520	0	Louise A. Dennis
+1521	1	1521	Neuroscience, Ethics and Legal Responsibility: The Problem of the Insanity Defense - Commentary on The Ethics of Neuroscience and the Neuroscience of Ethics: A Phenomenological-Existential Approach.	475-481
+1522	2	Sci. Eng. Ethics	18	3
+1523	0	Steven R. Smith
+1524	1	1524	The Rule of Virtue: A Confucian Response to the Ethical Challenges of Technocracy.	64
+1525	2	Sci. Eng. Ethics	27	5
+1526	0	Lishan Lan
+1527	0	Qin Zhu
+1528	0	Yongmou Liu
+1529	1	1529	Pragmatism and Care in Engineering Ethics.	65-87
+1530	2	Sci. Eng. Ethics	26	1
+1531	0	Indira Nair
+1532	0	William M. Bulleit
+1533	1	1533	Reflection on the Fazlul Sarkar versus PubPeer (John Doe) Case.	323-325
+1534	2	Sci. Eng. Ethics	24	1
+1535	0	Jaime A. Teixeira da Silva
+1536	1	1536	A Social Responsibility Guide for Engineering Students and Professionals of all Faith Traditions: An Overview.	1253-1277
+1537	2	Sci. Eng. Ethics	24	4
+1538	0	Vito L. Punzi
+1539	1	1539	On Genies and Bottles: Scientists' Moral Responsibility and Dangerous Technology R&D.	119-133
+1540	2	Sci. Eng. Ethics	16	1
+1541	0	David Koepsell
+1542	1	1542	Teaching Virtue: Pedagogical Implications of Moral Psychology.	611-628
+1543	2	Sci. Eng. Ethics	16	3
+1544	0	William J. Frey
+1545	1	1545	Mandatory Publications: An Approach to Kill 'Lack of Will' or 'Lack of Skill'?	773-777
+1546	2	Sci. Eng. Ethics	24	2
+1547	0	Neelam Dehal
+1548	0	Kewal Krishan
+1549	0	Tanuj Kanchan
+1550	0	Amarjeet Singh 0004
+1551	1	1551	Ethical Research in Delirium: Arguments for Including Decisionally Incapacitated Subjects.	169-174
+1552	0	Dimitrios Adamis
+1553	0	Adrian Treloar
+1554	0	Finbarr C. Martin
+1555	0	Alastair J. D. Macdonald
+1556	1	1556	Ethical Issues in Communicating Science.	581
+1557	2	Sci. Eng. Ethics	13	4
+1558	0	Jinnie M. Garrett
+1559	0	Stephanie J. Bird
+1560	1	1560	A Multi-level Review of Engineering Ethics Education: Towards a Socio-technical Orientation of Engineering Education for Ethics.	60
+1561	0	Diana Adela Martin
+1562	0	Eddie Conlon
+1563	0	Brian Bowe
+1564	1	1564	Fraud and Understanding the Moral Mind: Need for Implementation of Organizational Characteristics into Behavioral Ethics.	691-707
+1565	2	Sci. Eng. Ethics	26	2
+1566	0	Petr Houdek
+1567	1	1567	University Teachers During the First Lockdown Due to SARS-CoV-2 in Italy: Stress, Issues and Perceptions of Misconduct.	9
+1568	2	Sci. Eng. Ethics	28	1
+1569	0	Oronzo Parlangeli
+1570	0	Paola Palmitesta
+1571	0	Margherita Bracci
+1572	0	Enrica Marchigiani
+1573	0	Ileana Di Pomponio
+1574	0	Stefano Guidi
+1575	1	1575	Human-Animal Chimera: A Neuro Driven Discussion? Comparison of Three Leading European Research Countries.	595-617
+1576	2	Sci. Eng. Ethics	21	3
+1577	0	Laura Yenisa Cabrera Trujillo
+1578	0	Sabrina Engel-Glatter
+1579	1	1579	Mega-Sized Concerns from the Nano-Sized World: The Intersection of Nano- and Environmental Ethics.	1007-1016
+1580	2	Sci. Eng. Ethics	19	3
+1581	0	Peter M. Attia
+1582	1	1582	Distinguishing Characteristics of Corruption Risks in Iranian Construction Projects: A Weighted Correlation Network Analysis.	205-231
+1583	0	M. Reza Hosseini
+1584	0	Igor Martek
+1585	0	Saeed Banihashemi
+1586	0	Albert P. C. Chan
+1587	0	Amos Darko
+1588	0	Mahdi Tahmasebi
+1589	1	1589	Tech Ethics Through Trust Auditing.	28
+1590	2	Sci. Eng. Ethics	28	3
+1591	0	Matthew Grellette
+1592	1	1592	Facilitating Ethical Reflection Among Scientists Using the Ethical Matrix.	425-445
+1593	2	Sci. Eng. Ethics	17	3
+1594	0	Karsten Klint Jensen
+1595	0	Ellen-Marie Forsberg
+1596	0	Christian Gamborg
+1597	0	Kate Millar
+1598	0	Peter Sandøe
+1599	1	1599	Applying a Social Constructivist Approach to an Online Course on Ethics of Research.	8
+1600	2	Sci. Eng. Ethics	27	1
+1601	0	Miri Barak
+1602	0	Gizell Green
+1603	1	1603	Training STEM Ph.D. Students to Deal with Moral Dilemmas.	1861-1872
+1604	2	Sci. Eng. Ethics	26	3
+1605	0	Rafi Rashid
+1606	1	1606	Science and Engineering Ethics Enters its Third Decade.	1-3
+1607	2	Sci. Eng. Ethics	20	1
+1608	0	Raymond E. Spier
+1609	1	1609	Italian Adagio: Every Law has Its Loophole.	651-653
+1610	2	Sci. Eng. Ethics	25	2
+1611	0	Maria Pina Dore
+1612	0	Giovanni M. Pes
+1613	0	Fabrizia Faustinella
+1614	1	1614	Developing a Framework for Assessing Responsible Conduct of Research Education Programs.	185-200
+1615	0	Lynne E. Olson
+1616	1	1616	Editors' Overview: Neuroethics: Many Voices and Many Stories.	423-432
+1617	0	Michael W. Kalichman
+1618	0	Dena Plemmons
+1619	1	1619	Human Participants in Engineering Research: Notes from a Fledgling Ethics Committee.	1033-1048
+1620	2	Sci. Eng. Ethics	21	4
+1621	0	Willem-Paul Brinkman
+1622	0	Sylvia C. Pont
+1623	1	1623	The Central Importance of Laboratories for Reducing Waste in Biomedical Research.	1707-1716
+1624	2	Sci. Eng. Ethics	22	6
+1625	0	Nikolas Stroth
+1626	1	1626	Aspects of Morality and Law Enforcement in Today's Science in Post-Soviet Countries.	1747-1753
+1627	2	Sci. Eng. Ethics	24	6
+1628	0	Jana Kliestikova
+1629	0	Tomas Kliestik
+1630	0	Maria Misankova
+1631	0	Tatiana Corejova
+1632	0	Anna Krizanova
+1633	1	1633	Whither the University? Universities of Technology and the Problem of Institutional Purpose.	1679-1698
+1634	2	Sci. Eng. Ethics	25	6
+1635	0	Seumas Miller
+1636	1	1636	Does Studying 'Ethics' Improve Engineering Students' Meta-Moral Cognitive Skills?	583-596
+1637	0	Reena Cheruvalath
+1638	1	1638	Philosophy of Technology and Macro-ethics in Engineering.	405-415
+1639	2	Sci. Eng. Ethics	14	3
+1640	0	Wha-Chul Son
+1641	1	1641	Print Me an Organ? Ethical and Regulatory Issues Emerging from 3D Bioprinting in Medicine.	73-91
+1642	0	Frédéric Gilbert 0003
+1643	0	Cathal D. O'Connell
+1644	0	Tajanka Mladenovska
+1645	0	Susan Dodds
+1646	1	1646	Analyzing the Publish-or-Perish Paradigm with Game Theory: The Prisoner's Dilemma and a Possible Escape.	1431-1446
+1647	2	Sci. Eng. Ethics	22	5
+1648	0	Thomas C. Erren
+1649	0	David M. Shaw
+1650	0	Peter Morfeld
+1651	1	1651	Re-skilling the Social Practices: Open Source and Life-Towards a Commons-Based Peer Production in Agro-biotechnology?	1181-1200
+1652	0	Guido Nicolosi
+1653	0	Guido Ruivenkamp
+1654	1	1654	Toward a Responsibility-Catering Prioritarian Ethical Theory of Risk.	655-670
+1655	2	Sci. Eng. Ethics	25	3
+1656	0	Per Wikman-Svahn
+1657	0	Lars Lindblom
+1658	1	1658	Scientific Self-Regulation - So Good, How Can it Fail?	395-406
+1659	2	Sci. Eng. Ethics	15	3
+1660	0	Patrick L. Taylor
+1661	1	1661	Connecting Past with Present: A Mixed-Methods Science Ethics Course and its Evaluation.	251-274
+1662	2	Sci. Eng. Ethics	22	1
+1663	0	Ioanna Semendeferi
+1664	0	Panagiotis Tsiamyrtzis
+1665	0	Malcolm Dcosta
+1666	0	Ioannis T. Pavlidis
+1667	1	1667	The Why and How of Enabling the Integration of Social and Ethical Aspects in Research and Development.	703-725
+1668	0	Steven M. Flipse
+1669	0	Maarten C. A. van der Sanden
+1670	0	Patricia Osseweijer
+1671	1	1671	Conflicts of Interest, Selective Inertia, and Research Malpractice in Randomized Clinical Trials: An Unholy Trinity.	857-874
+1672	0	Vance W. Berger
+1673	1	1673	Do we Need a Special Ethics for Research?	21-29
+1674	2	Sci. Eng. Ethics	17	1
+1675	0	Sven Ove Hansson
+1676	1	1676	The Three Rs of Animal Research: What they Mean for the Institutional Animal Care and Use Committee and Why.	549-565
+1677	2	Sci. Eng. Ethics	22	2
+1678	0	Howard J. Curzer
+1679	0	Gad Perry
+1680	0	Mark C. Wallace
+1681	0	Dan Perry
+1682	1	1682	Ethics Consultation and Autonomy.	65-76
+1683	0	Jukka Varelius
+1684	1	1684	Authorship Issues When Articles are Retracted Due to Research Misconduct and Then Resubmitted.	31
+1685	2	Sci. Eng. Ethics	28	4
+1686	0	Taraswi Banerjee
+1687	0	Kathy Partin
+1688	0	David B. Resnik
+1689	1	1689	Agreeing in Ignorance: Mapping the Routinisation of Consent in ICT-Services.	1097-1110
+1690	2	Sci. Eng. Ethics	20	4
+1691	0	Thomas Ploug
+1692	0	Søren Holm
+1693	1	1693	Basing Science Ethics on Respect for Human Dignity.	1627-1647
+1694	0	Mehmet Aközer
+1695	0	Emel Aközer
+1696	1	1696	Incidence of Data Duplications in a Randomly Selected Pool of Life Science Publications.	487-496
+1697	0	Morten P. Oksvold
+1698	1	1698	Responsibility for Crashes of Autonomous Vehicles: An Ethical Analysis.	619-630
+1699	0	Alexander Hevelke
+1700	0	Julian Nida-Rümelin
+1701	1	1701	An Analysis of Medical Laboratory Technology Journals' Instructions for Authors.	1095-1106
+1702	2	Sci. Eng. Ethics	22	4
+1703	0	Martina Horvat
+1704	0	Ana Mlinaric
+1705	0	Jelena Omazic
+1706	0	Vesna Supak-Smolcic
+1707	1	1707	Standardising Responsibility? The Significance of Interstitial Spaces.	1159-1180
+1708	2	Sci. Eng. Ethics	21	5
+1709	0	Fern Wickson
+1710	1	1710	Misconduct and Misbehavior Related to Authorship Disagreements in Collaborative Science.	1967-1993
+1711	2	Sci. Eng. Ethics	26	4
+1712	0	Elise Smith
+1713	0	Bryn Williams-Jones
+1714	0	Zubin Master
+1715	0	Vincent Larivière
+1716	0	Cassidy R. Sugimoto
+1717	0	Adèle Paul-Hus
+1718	0	Min Shi
+1719	1	1719	Temporal Limits on What Engineers Can Plan.	1609-1624
+1720	2	Sci. Eng. Ethics	25	5
+1721	0	Michael Davis 0002
+1722	1	1722	Deliberate Microbial Infection Research Reveals Limitations to Current Safety Protections of Healthy Human Subjects.	1049-1064
+1723	0	David L. Evers
+1724	0	Carol B. Fowler
+1725	0	Jeffrey T. Mason
+1726	0	Rebecca K. Mimnall
+1727	1	1727	An Empirical Study on Construction Process Corruption Susceptibility: A Vignette of International Expertise.	325-349
+1728	0	Emmanuel Kingsford Owusu
+1729	0	Ming Shan
+1730	0	Erika Pärn
+1731	1	1731	Press Self-Regulation in Britain: A Critique.	159-181
+1732	2	Sci. Eng. Ethics	21	1
+1733	0	Raphael Cohen-Almagor
+1734	1	1734	Acclimating International Graduate Students to Professional Engineering Ethics.	171-194
+1735	0	Byron Newberry
+1736	0	Katherine A. Austin
+1737	0	William D. Lawson
+1738	0	Greta Gorsuch
+1739	0	Thomas Darwin
+1740	1	1740	Correction to: Mark Coeckelbergh, AI Ethics, Mit Press, 2021.	58
+1741	0	Filippo Santoni de Sio
+1742	1	1742	A Survey of Expectations About the Role of Robots in Robot-Assisted Therapy for Children with ASD: Ethical Acceptability, Trust, Sociability, Appearance, and Attachment.	47-65
+1743	0	Mark Coeckelbergh
+1744	0	Cristina Pop 0002
+1745	0	Ramona Simut
+1746	0	Andreea Peca
+1747	0	Sebastian Pintea
+1748	0	Daniel O. David
+1749	0	Bram Vanderborght
+1750	1	1750	Values in Time Discounting.	1333-1349
+1751	2	Sci. Eng. Ethics	23	5
+1752	0	Conrad Heilmann
+1753	1	1753	This Ethical Trap Is for Roboticists, Not Robots: On the Issue of Artificial Agent Ethical Decision-Making.	389-401
+1754	2	Sci. Eng. Ethics	23	2
+1755	0	Keith W. Miller 0001
+1756	0	Marty J. Wolf
+1757	0	Frances S. Grodzinsky
+1758	1	1758	Text Recycling in Scientific Writing.	813-851
+1759	0	Cary Moskovitz
+1760	1	1760	Relationships Between the Survey of Organizational Research Climate (SORC) and Self-Reported Research Practices.	835-850
+1761	0	A. Lauren Crain
+1762	0	Brian C. Martinson
+1763	0	Carol R. Thrush
+1764	1	1764	Authorship Policies at U.S. Doctoral Universities: A Review and Recommendations for Future Policies.	3393-3413
+1765	2	Sci. Eng. Ethics	26	6
+1766	0	Lisa M. Rasmussen
+1767	0	Courtney E. Williams
+1768	0	Mary M. Hausfeld
+1769	0	George C. Banks
+1770	0	Bailey C. Davis
+1771	1	1771	On Identifying Plausibility and Deliberative Public Policy - Commentary on: Negotiating Plausibility: Intervening in the Future of Nanotechnology.	739-742
+1772	2	Sci. Eng. Ethics	17	4
+1773	0	René von Schomberg
+1774	1	1774	AMICAI: A Method Based on Risk Analysis to Integrate Responsible Research and Innovation into the Work of Research and Innovation Practitioners.	667-689
+1775	0	Christopher Brandl
+1776	0	Matthias Wille
+1777	0	Jochen Nelles
+1778	0	Peter Rasche
+1779	0	Katharina Schäfer
+1780	0	Frank Ole Flemisch
+1781	0	Martin Frenz
+1782	0	Verena Nitsch
+1783	0	Alexander Mertens
+1784	1	1784	A Systematic Approach to Engineering Ethics Education.	339-349
+1785	2	Sci. Eng. Ethics	18	2
+1786	0	Jessica Li
+1787	0	Shengli Fu
+1788	1	1788	Researcher Views About Funding Sources and Conflicts of Interest in Nanotechnology.	699-717
+1789	2	Sci. Eng. Ethics	18	4
+1790	0	Katherine A. McComas
+1791	1	1791	Biological Indeterminacy.	447-452
+1792	0	Ralph J. Greenspan
+1793	1	1793	Patent Ethics: The Misalignment of Views Between the Patent System and the Wider Society.	1551-1576
+1794	2	Sci. Eng. Ethics	24	5
+1795	0	Anders Braarud Hanssen
+1796	0	Hanne Marie Nielsen
+1797	0	Ingrid Olesen
+1798	1	1798	Empowering Engineering Students in Ethical Risk Management: An Experimental Study.	911-937
+1799	0	Yoann Guntzburger
+1800	0	Thierry C. Pauchant
+1801	0	Philippe A. Tanguy
+1802	1	1802	Ethical Design in the Internet of Things.	905-925
+1803	2	Sci. Eng. Ethics	24	3
+1804	0	Gianmarco Baldini
+1805	0	Maarten Botterman
+1806	0	Ricardo Neisse
+1807	0	Mariachiara Tallacchini
+1808	1	1808	Is the Non-rivalrousness of Intellectual Objects a Problem for the Moral Justification of Economic Rights to Intellectual Property?	895-906
+1809	1	1809	Ethical Design of Intelligent Assistive Technologies for Dementia: A Descriptive Review.	1035-1055
+1810	0	Marcello Ienca
+1811	0	Tenzin Wangmo
+1812	0	Fabrice Jotterand
+1813	0	Reto W. Kressig
+1814	0	Bernice Elger
+1815	1	1815	E-Government Attempts in Small Island Developing States: The Rate of Corruption with Virtualization.	1673-1688
+1816	2	Sci. Eng. Ethics	23	6
+1817	0	Arif Sari
+1818	1	1818	Holistic Assessment and Ethical Disputation on a New Trend in Solid Biofuels.	509-519
+1819	0	Simona Hasková
+1820	1	1820	Some Ethical Concerns About Human Induced Pluripotent Stem Cells.	1277-1284
+1821	0	Yue Liang Zheng
+1822	1	1822	Uncovering a New Moral Dilemma of Economic Optimization in Biotechnological Processing.	1331-1338
+1823	0	Marek Vochozka
+1824	0	Vojtech Stehel
+1825	0	Anna Marousková
+1826	1	1826	Ethics When You Least Expect It: A Modular Approach to Short Course Data Ethics Instruction.	2189-2213
+1827	0	Louise Bezuidenhout
+1828	0	Robert Quick
+1829	0	Hugh P. Shanahan
+1830	1	1830	Attributing Agency to Automated Systems: Reflections on Human-Robot Collaborations and Responsibility-Loci.	1201-1219
+1831	0	Sven Nyholm
+1832	1	1832	Publisher Correction to: Text Recycling in Scientific Writing.	853-854
+1833	1	1833	Framework for the Analysis of Nanotechnologies' Impacts and Ethical Acceptability: Basis of an Interdisciplinary Approach to Assessing Novel Technologies.	293-315
+1834	2	Sci. Eng. Ethics	21	2
+1835	0	Johane Patenaude
+1836	0	Georges-Auguste Legault
+1837	0	Jacques Beauvais
+1838	0	Louise Bernier
+1839	0	Jean-Pierre Béland
+1840	0	Patrick Boissy
+1841	0	Vanessa Chenel
+1842	0	Charles-Étienne Daniel
+1843	0	Jonathan Genest
+1844	0	Marie-Sol Poirier
+1845	0	Danielle Tapin
+1846	1	1846	How to Weigh Values in Value Sensitive Design: A Best Worst Method Approach for the Case of Smart Metering.	475-494
+1847	0	Geerten van de Kaa
+1848	0	Jafar Rezaei 0001
+1849	0	Behnam Taebi
+1850	0	Ibo van de Poel
+1851	0	Abhilash Kizhakenath
+1852	1	1852	The Role of Professional Knowledge in Case-Based Reasoning in Practical Ethics.	767-787
+1853	0	Rosa Lynn Pinkus
+1854	0	Claire Gloeckner
+1855	0	Angela Fortunato
+1856	1	1856	Between Same-Sex Marriages and the Large Hadron Collider : Making Sense of the Precautionary Principle.	591-610
+1857	0	Anton Petrenko
+1858	0	Dan McArthur
+1859	1	1859	Overview: Underserved Areas of Education in the Responsible Conduct of Research: Authorship.	335-339
+1860	2	Sci. Eng. Ethics	17	2
+1861	1	1861	Self-Driving Cars and Engineering Ethics: The Need for a System Level Analysis.	383-398
+1862	0	Jason Borenstein
+1863	0	Joseph R. Herkert
+1864	1	1864	Letter to the editor on ethics of expertise, informed consent, and hormesis.	135-137
+1865	2	Sci. Eng. Ethics	13	2
+1866	0	George R. Hoffmann
+1867	1	1867	The Disaster of the Impact Factor.	139-142
+1868	0	Khaled Moustafa
+1869	1	1869	Engineering with Uncertainty: Monitoring Air Bag Performance.	201-218
+1870	2	Sci. Eng. Ethics	14	2
+1871	0	Jameson M. Wetmore
+1872	1	1872	The Moral Dimensions of Infrastructure.	435-449
+1873	0	Shane Epting
+1874	1	1874	Biosecurity and Open-Source Biology: The Promise and Peril of Distributed Synthetic Biological Technologies.	1065-1083
+1875	0	Nicholas G. Evans
+1876	0	Michael J. Selgelid
+1877	1	1877	The Ugly Truth About Ourselves and Our Robot Creations: The Problem of Bias and Social Inequity.	1521-1536
+1878	0	Ayanna M. Howard
+1879	1	1879	Darurah (Necessity) and Its Application in Islamic Ethical Assessment of Medical Applications: A Review on Malaysian Fatwa.	1319-1332
+1880	0	Noor Munirah Isa
+1881	1	1881	The Need for a Code of Conduct for Research Funders.	1657-1660
+1882	0	Bert van Wee
+1883	1	1883	Methods for Practising Ethics in Research and Innovation: A Literature Review, Critical Analysis and Recommendations.	1437-1481
+1884	0	Wessel Reijers
+1885	0	David Wright 0003
+1886	0	Philip Brey
+1887	0	Karsten Weber
+1888	0	Rowena Rodrigues
+1889	0	Declan O'Sullivan
+1890	0	Bert Gordijn
+1891	1	1891	Daniel A. Vallero, P. Aarne Vesilind, Socially Responsible Engineering: Justice in Risk Management.	415-417
+1892	2	Sci. Eng. Ethics	16	2
+1893	0	Alex A. Karner
+1894	1	1894	The Limits of Empowerment: How to Reframe the Role of mHealth Tools in the Healthcare Ecosystem.	1159-1183
+1895	0	Jessica Morley
+1896	0	Luciano Floridi
+1897	1	1897	Using Participatory Design to Inform the Connected and Open Research Ethics (CORE) Commons.	183-203
+1898	0	John Harlow
+1899	0	Nadir Weibel
+1900	0	Rasheed Al Kotob
+1901	0	Vincent Chan
+1902	0	Cinnamon S. Bloss
+1903	0	Rubi Linares-Orozco
+1904	0	Michelle Takemoto
+1905	0	Camille Nebeker
+1906	1	1906	Do You Ignore Information Security in Your Journal Website?	1227-1231
+1907	2	Sci. Eng. Ethics	23	4
+1908	0	Mehdi Dadkhah
+1909	0	Glenn Borchardt
+1910	0	Mohammad Lagzian
+1911	1	1911	Scientific Integrity Principles and Best Practices: Recommendations from a Scientific Integrity Consortium.	327-355
+1912	0	Alison Kretser
+1913	0	Delia Murphy
+1914	0	Stefano Bertuzzi
+1915	0	Todd Abraham
+1916	0	David B. Allison
+1917	0	Kathryn J. Boor
+1918	0	Johanna Dwyer
+1919	0	Andrea Grantham
+1920	0	Linda J. Harris
+1921	0	Rachelle Hollander
+1922	0	Chavonda Jacobs-Young
+1923	0	Sarah M. Rovito
+1924	0	Dorothea Vafiadis
+1925	0	Catherine Woteki
+1926	0	Jessica M. Wyndham
+1927	0	Rickey Y. Yada
+1928	1	1928	Transforming Scientists' Understanding of Science-Society Relations. Stimulating Double-Loop Learning when Teaching RRI.	1633-1653
+1929	0	Maria Bårdsen Hesjedal
+1930	0	Heidrun Åm
+1931	0	Knut H. Sørensen
+1932	0	Roger Strand
+1933	1	1933	Ensuring the Quality, Fairness, and Integrity of Journal Peer Review: A Possible Role of Editors.	169-188
+1934	0	Susan A. Elmore
+1935	1	1935	Protecting Ideas: Ethical and Legal Considerations When a Grant's Principal Investigator Changes.	1051-1061
+1936	0	Leonidas G. Koniaris
+1937	0	Mary I. Coombs
+1938	0	Eric M. Meslin
+1939	0	Teresa A. Zimmers
+1940	1	1940	Towards a Theory of Digital Well-Being: Reimagining Online Life After Lockdown.	32
+1941	2	Sci. Eng. Ethics	27	3
+1942	0	Matthew J. Dennis
+1943	1	1943	A Buddhist Perspective on Industrial Engineering and the Design of Work.	551-569
+1944	2	Sci. Eng. Ethics	20	2
+1945	0	Wei-Tau Lee
+1946	0	James A. Blumenthal
+1947	0	Kenneth H. Funk II
+1948	1	1948	Public Lab: Community-Based Approaches to Urban and Environmental Health and Justice.	971-997
+1949	0	Pablo Rey-Mazón
+1950	0	Hagit Keysar
+1951	0	Shannon Dosemagen
+1952	0	Catherine D'Ignazio
+1953	0	Don Blair
+1954	1	1954	A Systematic Literature Review of US Engineering Ethics Interventions.	551-583
+1955	0	Justin L. Hess
+1956	0	Grant Fore
+1957	1	1957	Artificial Intelligence and the 'Good Society': the US, EU, and UK approach.	505-528
+1958	0	Corinne Cath
+1959	0	Sandra Wachter
+1960	0	Brent D. Mittelstadt 0002
+1961	0	Mariarosaria Taddeo
+1962	1	1962	Viva Delay.	945-946
+1963	2	Sci. Eng. Ethics	23	3
+1964	0	Hossein Yahaghi
+1965	0	Shahryar Sorooshian
+1966	0	Javad Yahaghi
+1967	1	1967	Sustainable Development as a Challenge for Undergraduate Students: The Module Science Bears Responsibility in the Leuphana Bachelor's Programme - Commentary on A Case Study of Teaching Social Responsibility to Doctoral Students in the Climate Sciences.	1505-1511
+1968	2	Sci. Eng. Ethics	19	4
+1969	0	Gerd Michelsen
+1970	1	1970	Energy Communities and the Tensions Between Neoliberalism and Communitarianism.	3
+1971	0	Erik Laes
+1972	0	Gunter Bombaerts
+1973	1	1973	An Experiential, Game-Theoretic Pedagogy for Sustainability Ethics.	1323-1339
+1974	0	Jathan Sadowski
+1975	0	Thomas P. Seager
+1976	0	Evan Selinger
+1977	0	Susan G. Spierre
+1978	0	Kyle Powys Whyte
+1979	1	1979	May Stakeholders be Involved in Design Without Informed Consent? The Case of Hidden Design.	723-742
+1980	0	Auke J. K. Pols
+1981	1	1981	Engineering Ethics and Identity: Emerging Initiatives in Comparative Perspective.	463-487
+1982	0	Gary Lee Downey
+1983	0	Juan C. Lucena
+1984	0	Carl Mitcham
+1985	1	1985	Are the Votes of Ethics Committees in Germany for the Protection of Clinical Study Trial Subjects Sovereign Acts?.	341-354
+1986	2	Sci. Eng. Ethics	19	2
+1987	0	Hans Peter Graf
+1988	1	1988	Prior Publication and Redundancy in Contemporary Science: Are Authors and Editors at the Crossroads?	1367-1378
+1989	0	Sonia Maria Ramos de Vasconcelos
+1990	0	Miguel Roig
+1991	1	1991	Biobanks and Individual Health Related Findings: from an Obstacle to an Incentive.	55
+1992	2	Sci. Eng. Ethics	27	4
+1993	0	Jurate Lekstutiene
+1994	0	Eugenijus Gefenas
+1995	1	1995	Exploring Human Values in the Design of a Web-Based QoL-Instrument for People with Mental Health Problems: A Value Sensitive Design Approach.	871-898
+1996	0	Ivo Maathuis
+1997	0	Maartje G. H. Niezen
+1998	0	David Buitenweg
+1999	0	Ilja L. Bongers
+2000	0	Chijs van Nieuwenhuizen
+2001	1	2001	Informed Consent in Implantable BCI Research: Identifying Risks and Exploring Meaning.	1299-1317
+2002	0	Lishan Lan
+2003	0	Vanessa Chenel
+2004	0	Bert Gordijn
+2005	0	Sandra Wachter
+2006	0	Gary Lee Downey
+2007	0	Thierry C. Pauchant
+2008	0	Kate Millar
+2009	0	Andreea Peca
+2010	0	Jafar Rezaei 0001
+2011	0	Amos Darko
+2012	0	Brian C. Martinsou
+2013	0	Maarten C. A. van der Sanden
+2014	0	Jathan Sadowski
+2015	0	Jessica Li
+2016	0	Marek Vochozka
+2017	0	Paolo Gardoni
+2018	0	Bert v%n Wee
+2019	0	David L. EvKrs
+2020	0	Sarah M. Rovito
+2021	0	Carl Mitcham
+2022	0	Thomas Darwin
+2023	0	Carol R. Thrush
+2024	0	Zubin Master
+2025	0	Mahdi Tahmasebi
+2026	0	Susan R. Elmore
+2027	0	Sven Nyholm
+2028	0	IEeana Di Pomponio
+2029	0	Stefano Guidi
+2030	0	Kenneth H. Funk II
+2031	0	Sabrinw Engel-Glatter
+2032	0	Howard P. Curzer
+2033	1	1758	Text Recycling in Scientif9c Writing.	\N
+2034	1	1859	Overview: Underserved Areas of Education in the Responsible Conduct of Research: Authorahip.	335-339
+2035	1	1911	Scientific Integrity Principles and Best Practices: Recommendations from a Scientific Integrity Consortium.	327-355
+2036	1	1981	Engineering Ethics and Identity: Emerging Initiatives in Comparative Perspective.	463-487
+2037	1	1874	Biosecurity and Open-Source Biology: The Promise and Peril of Distributed Synthetic Biological Technologies.	1065-1083
+2038	1	1654	Toward a Responsibility-Catering Prioritarian Ethical Theory of Risk.	655-670
+2039	1	1701	An Analysis of Medical Laboratory Technology Journals' Instructions for Authors.	1095-1106
+2040	1	\N	Distinguishing Characteristics of Corruption Risks in Iranian Construction Projects: A Weighted Correlation Network Analysis.	205-231
+2041	1	1533	Reflection on the Fazlul Sarkar versus PubPeer (John Doe) Case.	323-325
+2042	1	\N	Framework for the Analysis of Nanotechnologies' Impacts and Ethical Acceptability: Basis of an Interdisciplinary AppNoach to Assessing Novel Technologies.	293-315
+2043	1	1791	Biological Indeterminacy.	\N
+2044	1	1740	Correction to: Mark Coeckelbergh, AI Ethics, Mit Press, 2021.	58
+2045	2	Sci. Eng. Ethics	\N	1
+2046	2	Sci. Eng. Ethics	\N	2
+2047	2	Sci. Eng. Ethics	14	\N
+2048	2	Tci. Eng. Ethics	28	4
+2049	2	Sci. Eng. Ethics	16	3
+2050	2	Sci. Eng. Ethics	26	6
